@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>AgriPredict Data Portal</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="portal">
+
+<!-- FILTER BAR -->
+<div class="filter-bar">
+
+    <select>
+        <option>Category</option>
+        <option>Food Grains</option>
+    </select>
+
+    <select id="commoditySelect">
+        <option>Commodity</option>
+        <option value="wheat">Wheat</option>
+        <option value="rice">Rice</option>
+        <option value="maize">Maize</option>
+    </select>
+
+    <select>
+        <option>State</option>
+        <option>All India</option>
+    </select>
+
+    <input type="date">
+    <input type="date">
+
+    <button onclick="loadData()">Apply</button>
+
+</div>
+
+<!-- MAIN CONTENT -->
+<div class="portal-container">
+
+    <!-- LEFT PANEL -->
+    <div class="left-panel">
+
+        <div class="price-card">
+            <h2 id="cropTitle">Crop</h2>
+            <h1 id="currentPrice">₹ 0</h1>
+            <p id="priceChange">0%</p>
+        </div>
+
+        <div class="table-section">
+			<h3>Price Log</h3>
+			<table id="priceTable">
+			<tr>
+            <th>Month</th>
+            <th>Avg Predicted Price</th>
+			</tr>
+			</table>
+		</div>
+
+
+    </div>
+
+    <!-- RIGHT PANEL -->
+    <div class="right-panel">
+
+        <div class="chart-tabs">
+            <button>Timeseries</button>
+            <button>Heatmap</button>
+            <button>Bar Chart</button>
+        </div>
+
+        <canvas id="priceChart"></canvas>
+
+    </div>
+
+</div>
+
+<script src="js/portal.js"></script>
+</body>
+</html>

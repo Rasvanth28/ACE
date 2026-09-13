@@ -1,0 +1,6051 @@
+{
+  "report_metadata": {
+    "commodity": "Wheat",
+    "state": "Maharashtra",
+    "base_month": "December 2021",
+    "horizon": "3 Months (Jan-Mar 2022)"
+  },
+  "state_summary": {
+    "current_avg_price": 1875.37,
+    "forecast_series": [
+      {
+        "month": "January",
+        "avg_predicted_price": 1894.07,
+        "trend": "Stable"
+      },
+      {
+        "month": "February",
+        "avg_predicted_price": 1906.3,
+        "trend": "Stable"
+      },
+      {
+        "month": "March",
+        "avg_predicted_price": 1920.35,
+        "trend": "Stable"
+      }
+    ]
+  },
+  "market_details": [
+    {
+      "market_name": "Hadgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1450.45,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1536.03,
+          "trend": "Up",
+          "deviation_from_state": "-18.90%"
+        },
+        {
+          "month": "February",
+          "price": 1535.02,
+          "trend": "Down",
+          "deviation_from_state": "-19.48%"
+        },
+        {
+          "month": "March",
+          "price": 1629.45,
+          "trend": "Up",
+          "deviation_from_state": "-15.15%"
+        }
+      ],
+      "risk_score": 1.17,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Hadgaon(Tamsa) APMC",
+      "market_type": "APMC",
+      "current_price": 1450.45,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1536.74,
+          "trend": "Up",
+          "deviation_from_state": "-18.87%"
+        },
+        {
+          "month": "February",
+          "price": 1535.72,
+          "trend": "Down",
+          "deviation_from_state": "-19.44%"
+        },
+        {
+          "month": "March",
+          "price": 1631.83,
+          "trend": "Up",
+          "deviation_from_state": "-15.02%"
+        }
+      ],
+      "risk_score": 1.17,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Dindori APMC",
+      "market_type": "APMC",
+      "current_price": 1698.77,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1762.59,
+          "trend": "Up",
+          "deviation_from_state": "-6.94%"
+        },
+        {
+          "month": "February",
+          "price": 1773.2,
+          "trend": "Up",
+          "deviation_from_state": "-6.98%"
+        },
+        {
+          "month": "March",
+          "price": 1780.16,
+          "trend": "Up",
+          "deviation_from_state": "-7.30%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Fulmbri APMC",
+      "market_type": "APMC",
+      "current_price": 1658.43,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1713.34,
+          "trend": "Up",
+          "deviation_from_state": "-9.54%"
+        },
+        {
+          "month": "February",
+          "price": 1755.22,
+          "trend": "Up",
+          "deviation_from_state": "-7.93%"
+        },
+        {
+          "month": "March",
+          "price": 1777.41,
+          "trend": "Up",
+          "deviation_from_state": "-7.44%"
+        }
+      ],
+      "risk_score": 0.55,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Jamner APMC",
+      "market_type": "APMC",
+      "current_price": 1960.12,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1997.31,
+          "trend": "Up",
+          "deviation_from_state": "5.45%"
+        },
+        {
+          "month": "February",
+          "price": 2019.05,
+          "trend": "Up",
+          "deviation_from_state": "5.91%"
+        },
+        {
+          "month": "March",
+          "price": 2018.79,
+          "trend": "Down",
+          "deviation_from_state": "5.13%"
+        }
+      ],
+      "risk_score": 0.36,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Akkalkot APMC",
+      "market_type": "APMC",
+      "current_price": 2201.35,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2112.85,
+          "trend": "Down",
+          "deviation_from_state": "11.55%"
+        },
+        {
+          "month": "February",
+          "price": 2160.89,
+          "trend": "Up",
+          "deviation_from_state": "13.36%"
+        },
+        {
+          "month": "March",
+          "price": 2126.67,
+          "trend": "Down",
+          "deviation_from_state": "10.74%"
+        }
+      ],
+      "risk_score": 0.78,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Bodwad APMC",
+      "market_type": "APMC",
+      "current_price": 1745.27,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1750.17,
+          "trend": "Up",
+          "deviation_from_state": "-7.60%"
+        },
+        {
+          "month": "February",
+          "price": 1746.7,
+          "trend": "Down",
+          "deviation_from_state": "-8.37%"
+        },
+        {
+          "month": "March",
+          "price": 1742.38,
+          "trend": "Down",
+          "deviation_from_state": "-9.27%"
+        }
+      ],
+      "risk_score": 0.56,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Dhadgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1695.08,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1694.82,
+          "trend": "Down",
+          "deviation_from_state": "-10.52%"
+        },
+        {
+          "month": "February",
+          "price": 1683.73,
+          "trend": "Down",
+          "deviation_from_state": "-11.68%"
+        },
+        {
+          "month": "March",
+          "price": 1678.4,
+          "trend": "Down",
+          "deviation_from_state": "-12.60%"
+        }
+      ],
+      "risk_score": 0.77,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kalmeshwar APMC",
+      "market_type": "APMC",
+      "current_price": 1349.02,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1390.67,
+          "trend": "Up",
+          "deviation_from_state": "-26.58%"
+        },
+        {
+          "month": "February",
+          "price": 1493.19,
+          "trend": "Up",
+          "deviation_from_state": "-21.67%"
+        },
+        {
+          "month": "March",
+          "price": 1554.5,
+          "trend": "Up",
+          "deviation_from_state": "-19.05%"
+        }
+      ],
+      "risk_score": 1.47,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Mahagaon APMC",
+      "market_type": "APMC",
+      "current_price": 1902.81,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1849.61,
+          "trend": "Down",
+          "deviation_from_state": "-2.35%"
+        },
+        {
+          "month": "February",
+          "price": 1827.65,
+          "trend": "Down",
+          "deviation_from_state": "-4.13%"
+        },
+        {
+          "month": "March",
+          "price": 1816.67,
+          "trend": "Down",
+          "deviation_from_state": "-5.40%"
+        }
+      ],
+      "risk_score": 0.26,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Motala APMC",
+      "market_type": "APMC",
+      "current_price": 1484.77,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1510.94,
+          "trend": "Up",
+          "deviation_from_state": "-20.23%"
+        },
+        {
+          "month": "February",
+          "price": 1522.11,
+          "trend": "Up",
+          "deviation_from_state": "-20.15%"
+        },
+        {
+          "month": "March",
+          "price": 1562.26,
+          "trend": "Up",
+          "deviation_from_state": "-18.65%"
+        }
+      ],
+      "risk_score": 1.3,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Nagbhid APMC",
+      "market_type": "APMC",
+      "current_price": 1902.81,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1849.61,
+          "trend": "Down",
+          "deviation_from_state": "-2.35%"
+        },
+        {
+          "month": "February",
+          "price": 1827.65,
+          "trend": "Down",
+          "deviation_from_state": "-4.13%"
+        },
+        {
+          "month": "March",
+          "price": 1816.67,
+          "trend": "Down",
+          "deviation_from_state": "-5.40%"
+        }
+      ],
+      "risk_score": 0.26,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ner Parasopant APMC",
+      "market_type": "APMC",
+      "current_price": 1706.04,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1739.86,
+          "trend": "Up",
+          "deviation_from_state": "-8.14%"
+        },
+        {
+          "month": "February",
+          "price": 1751.61,
+          "trend": "Up",
+          "deviation_from_state": "-8.11%"
+        },
+        {
+          "month": "March",
+          "price": 1752.24,
+          "trend": "Up",
+          "deviation_from_state": "-8.75%"
+        }
+      ],
+      "risk_score": 0.55,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Purna APMC",
+      "market_type": "APMC",
+      "current_price": 1746.37,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1710.86,
+          "trend": "Down",
+          "deviation_from_state": "-9.67%"
+        },
+        {
+          "month": "February",
+          "price": 1728.73,
+          "trend": "Up",
+          "deviation_from_state": "-9.31%"
+        },
+        {
+          "month": "March",
+          "price": 1725.57,
+          "trend": "Down",
+          "deviation_from_state": "-10.14%"
+        }
+      ],
+      "risk_score": 0.64,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Washi (Dharashiv) APMC",
+      "market_type": "APMC",
+      "current_price": 2089.83,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2280.01,
+          "trend": "Up",
+          "deviation_from_state": "20.38%"
+        },
+        {
+          "month": "February",
+          "price": 2388.45,
+          "trend": "Up",
+          "deviation_from_state": "25.29%"
+        },
+        {
+          "month": "March",
+          "price": 2560.53,
+          "trend": "Up",
+          "deviation_from_state": "33.34%"
+        }
+      ],
+      "risk_score": 1.75,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Akkalkuwa APMC",
+      "market_type": "APMC",
+      "current_price": 1842.82,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1829.47,
+          "trend": "Down",
+          "deviation_from_state": "-3.41%"
+        },
+        {
+          "month": "February",
+          "price": 1804.71,
+          "trend": "Down",
+          "deviation_from_state": "-5.33%"
+        },
+        {
+          "month": "March",
+          "price": 1792.31,
+          "trend": "Down",
+          "deviation_from_state": "-6.67%"
+        }
+      ],
+      "risk_score": 0.34,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Ashti APMC",
+      "market_type": "APMC",
+      "current_price": 1500.95,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1486.63,
+          "trend": "Down",
+          "deviation_from_state": "-21.51%"
+        },
+        {
+          "month": "February",
+          "price": 1513.38,
+          "trend": "Up",
+          "deviation_from_state": "-20.61%"
+        },
+        {
+          "month": "March",
+          "price": 1472.01,
+          "trend": "Down",
+          "deviation_from_state": "-23.35%"
+        }
+      ],
+      "risk_score": 1.44,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Dharni APMC",
+      "market_type": "APMC",
+      "current_price": 1674.98,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1706.6,
+          "trend": "Up",
+          "deviation_from_state": "-9.90%"
+        },
+        {
+          "month": "February",
+          "price": 1687.13,
+          "trend": "Down",
+          "deviation_from_state": "-11.50%"
+        },
+        {
+          "month": "March",
+          "price": 1660.81,
+          "trend": "Down",
+          "deviation_from_state": "-13.52%"
+        }
+      ],
+      "risk_score": 0.77,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Ghoti APMC",
+      "market_type": "APMC",
+      "current_price": 2064.59,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2098.94,
+          "trend": "Up",
+          "deviation_from_state": "10.82%"
+        },
+        {
+          "month": "February",
+          "price": 2030.43,
+          "trend": "Down",
+          "deviation_from_state": "6.51%"
+        },
+        {
+          "month": "March",
+          "price": 1968.24,
+          "trend": "Down",
+          "deviation_from_state": "2.49%"
+        }
+      ],
+      "risk_score": 0.43,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kandhar APMC",
+      "market_type": "APMC",
+      "current_price": 1420.81,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1425.52,
+          "trend": "Up",
+          "deviation_from_state": "-24.74%"
+        },
+        {
+          "month": "February",
+          "price": 1417.62,
+          "trend": "Down",
+          "deviation_from_state": "-25.63%"
+        },
+        {
+          "month": "March",
+          "price": 1412.19,
+          "trend": "Down",
+          "deviation_from_state": "-26.46%"
+        }
+      ],
+      "risk_score": 1.69,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Lonand APMC",
+      "market_type": "APMC",
+      "current_price": 1992.73,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1988.62,
+          "trend": "Down",
+          "deviation_from_state": "4.99%"
+        },
+        {
+          "month": "February",
+          "price": 1913.18,
+          "trend": "Down",
+          "deviation_from_state": "0.36%"
+        },
+        {
+          "month": "March",
+          "price": 1830.59,
+          "trend": "Down",
+          "deviation_from_state": "-4.67%"
+        }
+      ],
+      "risk_score": 0.22,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Aarni APMC",
+      "market_type": "APMC",
+      "current_price": 1496.34,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1458.66,
+          "trend": "Down",
+          "deviation_from_state": "-22.99%"
+        },
+        {
+          "month": "February",
+          "price": 1404.44,
+          "trend": "Down",
+          "deviation_from_state": "-26.33%"
+        },
+        {
+          "month": "March",
+          "price": 1372.1,
+          "trend": "Down",
+          "deviation_from_state": "-28.55%"
+        }
+      ],
+      "risk_score": 1.72,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Barshi Takli APMC",
+      "market_type": "APMC",
+      "current_price": 1545.33,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1578.56,
+          "trend": "Up",
+          "deviation_from_state": "-16.66%"
+        },
+        {
+          "month": "February",
+          "price": 1571.75,
+          "trend": "Down",
+          "deviation_from_state": "-17.55%"
+        },
+        {
+          "month": "March",
+          "price": 1609.09,
+          "trend": "Up",
+          "deviation_from_state": "-16.21%"
+        }
+      ],
+      "risk_score": 1.11,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Dharmabad APMC",
+      "market_type": "APMC",
+      "current_price": 1475.15,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1440.38,
+          "trend": "Down",
+          "deviation_from_state": "-23.95%"
+        },
+        {
+          "month": "February",
+          "price": 1414.05,
+          "trend": "Down",
+          "deviation_from_state": "-25.82%"
+        },
+        {
+          "month": "March",
+          "price": 1414.48,
+          "trend": "Up",
+          "deviation_from_state": "-26.34%"
+        }
+      ],
+      "risk_score": 1.68,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Indapur APMC",
+      "market_type": "APMC",
+      "current_price": 1821.18,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1816.41,
+          "trend": "Down",
+          "deviation_from_state": "-4.10%"
+        },
+        {
+          "month": "February",
+          "price": 1824.56,
+          "trend": "Up",
+          "deviation_from_state": "-4.29%"
+        },
+        {
+          "month": "March",
+          "price": 1829.99,
+          "trend": "Up",
+          "deviation_from_state": "-4.71%"
+        }
+      ],
+      "risk_score": 0.29,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Mandhal APMC",
+      "market_type": "APMC",
+      "current_price": 1422.05,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1421.15,
+          "trend": "Down",
+          "deviation_from_state": "-24.97%"
+        },
+        {
+          "month": "February",
+          "price": 1413.25,
+          "trend": "Down",
+          "deviation_from_state": "-25.86%"
+        },
+        {
+          "month": "March",
+          "price": 1407.82,
+          "trend": "Down",
+          "deviation_from_state": "-26.69%"
+        }
+      ],
+      "risk_score": 1.71,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Pandhakawada APMC",
+      "market_type": "APMC",
+      "current_price": 1672.06,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1667.8,
+          "trend": "Down",
+          "deviation_from_state": "-11.95%"
+        },
+        {
+          "month": "February",
+          "price": 1667.8,
+          "trend": "Down",
+          "deviation_from_state": "-12.51%"
+        },
+        {
+          "month": "March",
+          "price": 1666.05,
+          "trend": "Down",
+          "deviation_from_state": "-13.24%"
+        }
+      ],
+      "risk_score": 0.83,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Pusad APMC",
+      "market_type": "APMC",
+      "current_price": 1865.94,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1845.61,
+          "trend": "Down",
+          "deviation_from_state": "-2.56%"
+        },
+        {
+          "month": "February",
+          "price": 1750.01,
+          "trend": "Down",
+          "deviation_from_state": "-8.20%"
+        },
+        {
+          "month": "March",
+          "price": 1729.93,
+          "trend": "Down",
+          "deviation_from_state": "-9.92%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Risod APMC",
+      "market_type": "APMC",
+      "current_price": 1863.76,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1845.45,
+          "trend": "Down",
+          "deviation_from_state": "-2.57%"
+        },
+        {
+          "month": "February",
+          "price": 1735.7,
+          "trend": "Down",
+          "deviation_from_state": "-8.95%"
+        },
+        {
+          "month": "March",
+          "price": 1738.09,
+          "trend": "Up",
+          "deviation_from_state": "-9.49%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Ashti(Karanja) APMC",
+      "market_type": "APMC",
+      "current_price": 1654.2,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1666.06,
+          "trend": "Up",
+          "deviation_from_state": "-12.04%"
+        },
+        {
+          "month": "February",
+          "price": 1697.31,
+          "trend": "Up",
+          "deviation_from_state": "-10.96%"
+        },
+        {
+          "month": "March",
+          "price": 1738.54,
+          "trend": "Up",
+          "deviation_from_state": "-9.47%"
+        }
+      ],
+      "risk_score": 0.71,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Babhulgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1662.3,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1682.3,
+          "trend": "Up",
+          "deviation_from_state": "-11.18%"
+        },
+        {
+          "month": "February",
+          "price": 1695.85,
+          "trend": "Up",
+          "deviation_from_state": "-11.04%"
+        },
+        {
+          "month": "March",
+          "price": 1709.81,
+          "trend": "Up",
+          "deviation_from_state": "-10.96%"
+        }
+      ],
+      "risk_score": 0.73,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Chandur Railway APMC",
+      "market_type": "APMC",
+      "current_price": 1597.46,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1602.88,
+          "trend": "Up",
+          "deviation_from_state": "-15.37%"
+        },
+        {
+          "month": "February",
+          "price": 1605.01,
+          "trend": "Up",
+          "deviation_from_state": "-15.80%"
+        },
+        {
+          "month": "March",
+          "price": 1611.23,
+          "trend": "Up",
+          "deviation_from_state": "-16.10%"
+        }
+      ],
+      "risk_score": 1.04,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Indapur(Nimgaon Ketki) APMC",
+      "market_type": "APMC",
+      "current_price": 1756.27,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1779.26,
+          "trend": "Up",
+          "deviation_from_state": "-6.06%"
+        },
+        {
+          "month": "February",
+          "price": 1783.91,
+          "trend": "Up",
+          "deviation_from_state": "-6.42%"
+        },
+        {
+          "month": "March",
+          "price": 1783.91,
+          "trend": "Down",
+          "deviation_from_state": "-7.11%"
+        }
+      ],
+      "risk_score": 0.43,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Jalgaon(Masawat) APMC",
+      "market_type": "APMC",
+      "current_price": 1654.2,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1663.88,
+          "trend": "Up",
+          "deviation_from_state": "-12.15%"
+        },
+        {
+          "month": "February",
+          "price": 1686.62,
+          "trend": "Up",
+          "deviation_from_state": "-11.52%"
+        },
+        {
+          "month": "March",
+          "price": 1688.52,
+          "trend": "Up",
+          "deviation_from_state": "-12.07%"
+        }
+      ],
+      "risk_score": 0.79,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Mudkhed APMC",
+      "market_type": "APMC",
+      "current_price": 1869.59,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1862.55,
+          "trend": "Down",
+          "deviation_from_state": "-1.66%"
+        },
+        {
+          "month": "February",
+          "price": 1858.89,
+          "trend": "Down",
+          "deviation_from_state": "-2.49%"
+        },
+        {
+          "month": "March",
+          "price": 1858.89,
+          "trend": "Down",
+          "deviation_from_state": "-3.20%"
+        }
+      ],
+      "risk_score": 0.16,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Buldhana APMC",
+      "market_type": "APMC",
+      "current_price": 1684.3,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1715.44,
+          "trend": "Up",
+          "deviation_from_state": "-9.43%"
+        },
+        {
+          "month": "February",
+          "price": 1753.28,
+          "trend": "Up",
+          "deviation_from_state": "-8.03%"
+        },
+        {
+          "month": "March",
+          "price": 1786.74,
+          "trend": "Up",
+          "deviation_from_state": "-6.96%"
+        }
+      ],
+      "risk_score": 0.53,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Mohol APMC",
+      "market_type": "APMC",
+      "current_price": 1927.4,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1876.04,
+          "trend": "Down",
+          "deviation_from_state": "-0.95%"
+        },
+        {
+          "month": "February",
+          "price": 1870.46,
+          "trend": "Down",
+          "deviation_from_state": "-1.88%"
+        },
+        {
+          "month": "March",
+          "price": 1853.33,
+          "trend": "Down",
+          "deviation_from_state": "-3.49%"
+        }
+      ],
+      "risk_score": 0.14,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Sindi APMC",
+      "market_type": "APMC",
+      "current_price": 1763.14,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1792.58,
+          "trend": "Up",
+          "deviation_from_state": "-5.36%"
+        },
+        {
+          "month": "February",
+          "price": 1820.15,
+          "trend": "Up",
+          "deviation_from_state": "-4.52%"
+        },
+        {
+          "month": "March",
+          "price": 1866.99,
+          "trend": "Up",
+          "deviation_from_state": "-2.78%"
+        }
+      ],
+      "risk_score": 0.28,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Akot APMC",
+      "market_type": "APMC",
+      "current_price": 1691.52,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1696.08,
+          "trend": "Up",
+          "deviation_from_state": "-10.45%"
+        },
+        {
+          "month": "February",
+          "price": 1696.08,
+          "trend": "Down",
+          "deviation_from_state": "-11.03%"
+        },
+        {
+          "month": "March",
+          "price": 1696.08,
+          "trend": "Down",
+          "deviation_from_state": "-11.68%"
+        }
+      ],
+      "risk_score": 0.73,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Dhamngaon-Railway APMC",
+      "market_type": "APMC",
+      "current_price": 1753.52,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1782.35,
+          "trend": "Up",
+          "deviation_from_state": "-5.90%"
+        },
+        {
+          "month": "February",
+          "price": 1797.97,
+          "trend": "Up",
+          "deviation_from_state": "-5.68%"
+        },
+        {
+          "month": "March",
+          "price": 1808.38,
+          "trend": "Up",
+          "deviation_from_state": "-5.83%"
+        }
+      ],
+      "risk_score": 0.38,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Dudhani APMC",
+      "market_type": "APMC",
+      "current_price": 1948.17,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1996.67,
+          "trend": "Up",
+          "deviation_from_state": "5.42%"
+        },
+        {
+          "month": "February",
+          "price": 2005.07,
+          "trend": "Up",
+          "deviation_from_state": "5.18%"
+        },
+        {
+          "month": "March",
+          "price": 2068.04,
+          "trend": "Up",
+          "deviation_from_state": "7.69%"
+        }
+      ],
+      "risk_score": 0.41,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kalamnuri APMC",
+      "market_type": "APMC",
+      "current_price": 2008.66,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1995.3,
+          "trend": "Down",
+          "deviation_from_state": "5.34%"
+        },
+        {
+          "month": "February",
+          "price": 2002.87,
+          "trend": "Up",
+          "deviation_from_state": "5.07%"
+        },
+        {
+          "month": "March",
+          "price": 1999.32,
+          "trend": "Down",
+          "deviation_from_state": "4.11%"
+        }
+      ],
+      "risk_score": 0.32,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Parola APMC",
+      "market_type": "APMC",
+      "current_price": 1682.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1684.06,
+          "trend": "Up",
+          "deviation_from_state": "-11.09%"
+        },
+        {
+          "month": "February",
+          "price": 1684.06,
+          "trend": "Down",
+          "deviation_from_state": "-11.66%"
+        },
+        {
+          "month": "March",
+          "price": 1684.06,
+          "trend": "Down",
+          "deviation_from_state": "-12.30%"
+        }
+      ],
+      "risk_score": 0.77,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Pavani APMC",
+      "market_type": "APMC",
+      "current_price": 1913.56,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1898.84,
+          "trend": "Down",
+          "deviation_from_state": "0.25%"
+        },
+        {
+          "month": "February",
+          "price": 1902.55,
+          "trend": "Up",
+          "deviation_from_state": "-0.20%"
+        },
+        {
+          "month": "March",
+          "price": 1883.41,
+          "trend": "Down",
+          "deviation_from_state": "-1.92%"
+        }
+      ],
+      "risk_score": 0.05,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Bhusaval APMC",
+      "market_type": "APMC",
+      "current_price": 1799.27,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1832.32,
+          "trend": "Up",
+          "deviation_from_state": "-3.26%"
+        },
+        {
+          "month": "February",
+          "price": 1879.31,
+          "trend": "Up",
+          "deviation_from_state": "-1.42%"
+        },
+        {
+          "month": "March",
+          "price": 1917.72,
+          "trend": "Up",
+          "deviation_from_state": "-0.14%"
+        }
+      ],
+      "risk_score": 0.1,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Daryapur APMC",
+      "market_type": "APMC",
+      "current_price": 1706.14,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1775.7,
+          "trend": "Up",
+          "deviation_from_state": "-6.25%"
+        },
+        {
+          "month": "February",
+          "price": 1814.97,
+          "trend": "Up",
+          "deviation_from_state": "-4.79%"
+        },
+        {
+          "month": "March",
+          "price": 1893.97,
+          "trend": "Up",
+          "deviation_from_state": "-1.37%"
+        }
+      ],
+      "risk_score": 0.27,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Dondaicha(Sindhkheda) APMC",
+      "market_type": "APMC",
+      "current_price": 1789.82,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1830.37,
+          "trend": "Up",
+          "deviation_from_state": "-3.36%"
+        },
+        {
+          "month": "February",
+          "price": 1879.61,
+          "trend": "Up",
+          "deviation_from_state": "-1.40%"
+        },
+        {
+          "month": "March",
+          "price": 1945.27,
+          "trend": "Up",
+          "deviation_from_state": "1.30%"
+        }
+      ],
+      "risk_score": 0.13,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Hingoli(Kanegoan Naka) APMC",
+      "market_type": "APMC",
+      "current_price": 1699.99,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1763.12,
+          "trend": "Up",
+          "deviation_from_state": "-6.91%"
+        },
+        {
+          "month": "February",
+          "price": 1802.63,
+          "trend": "Up",
+          "deviation_from_state": "-5.44%"
+        },
+        {
+          "month": "March",
+          "price": 1825.35,
+          "trend": "Up",
+          "deviation_from_state": "-4.95%"
+        }
+      ],
+      "risk_score": 0.38,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Indapur(Bhigwan) APMC",
+      "market_type": "APMC",
+      "current_price": 1865.23,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1908.75,
+          "trend": "Up",
+          "deviation_from_state": "0.78%"
+        },
+        {
+          "month": "February",
+          "price": 1939.72,
+          "trend": "Up",
+          "deviation_from_state": "1.75%"
+        },
+        {
+          "month": "March",
+          "price": 1975.12,
+          "trend": "Up",
+          "deviation_from_state": "2.85%"
+        }
+      ],
+      "risk_score": 0.12,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Jalgaon Jamod(Aasalgaon) APMC",
+      "market_type": "APMC",
+      "current_price": 1965.81,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1988.43,
+          "trend": "Up",
+          "deviation_from_state": "4.98%"
+        },
+        {
+          "month": "February",
+          "price": 2013.18,
+          "trend": "Up",
+          "deviation_from_state": "5.61%"
+        },
+        {
+          "month": "March",
+          "price": 1998.36,
+          "trend": "Down",
+          "deviation_from_state": "4.06%"
+        }
+      ],
+      "risk_score": 0.32,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Malegaon(Vashim) APMC",
+      "market_type": "APMC",
+      "current_price": 1737.96,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1770.76,
+          "trend": "Up",
+          "deviation_from_state": "-6.51%"
+        },
+        {
+          "month": "February",
+          "price": 1811.25,
+          "trend": "Up",
+          "deviation_from_state": "-4.99%"
+        },
+        {
+          "month": "March",
+          "price": 1894.24,
+          "trend": "Up",
+          "deviation_from_state": "-1.36%"
+        }
+      ],
+      "risk_score": 0.28,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Nilanga APMC",
+      "market_type": "APMC",
+      "current_price": 1699.99,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1772.83,
+          "trend": "Up",
+          "deviation_from_state": "-6.40%"
+        },
+        {
+          "month": "February",
+          "price": 1802.9,
+          "trend": "Up",
+          "deviation_from_state": "-5.42%"
+        },
+        {
+          "month": "March",
+          "price": 1886.93,
+          "trend": "Up",
+          "deviation_from_state": "-1.74%"
+        }
+      ],
+      "risk_score": 0.29,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Palam APMC",
+      "market_type": "APMC",
+      "current_price": 2200.76,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2227.02,
+          "trend": "Up",
+          "deviation_from_state": "17.58%"
+        },
+        {
+          "month": "February",
+          "price": 2283.26,
+          "trend": "Up",
+          "deviation_from_state": "19.77%"
+        },
+        {
+          "month": "March",
+          "price": 2265.08,
+          "trend": "Down",
+          "deviation_from_state": "17.95%"
+        }
+      ],
+      "risk_score": 1.22,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Sangrampur APMC",
+      "market_type": "APMC",
+      "current_price": 1769.77,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1801.93,
+          "trend": "Up",
+          "deviation_from_state": "-4.86%"
+        },
+        {
+          "month": "February",
+          "price": 1886.93,
+          "trend": "Up",
+          "deviation_from_state": "-1.02%"
+        },
+        {
+          "month": "March",
+          "price": 1946.31,
+          "trend": "Up",
+          "deviation_from_state": "1.35%"
+        }
+      ],
+      "risk_score": 0.16,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Umari APMC",
+      "market_type": "APMC",
+      "current_price": 1632.97,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1654.0,
+          "trend": "Up",
+          "deviation_from_state": "-12.67%"
+        },
+        {
+          "month": "February",
+          "price": 1690.44,
+          "trend": "Up",
+          "deviation_from_state": "-11.32%"
+        },
+        {
+          "month": "March",
+          "price": 1718.83,
+          "trend": "Up",
+          "deviation_from_state": "-10.49%"
+        }
+      ],
+      "risk_score": 0.76,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Vani APMC",
+      "market_type": "APMC",
+      "current_price": 1739.7,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1772.21,
+          "trend": "Up",
+          "deviation_from_state": "-6.43%"
+        },
+        {
+          "month": "February",
+          "price": 1807.68,
+          "trend": "Up",
+          "deviation_from_state": "-5.17%"
+        },
+        {
+          "month": "March",
+          "price": 1866.69,
+          "trend": "Up",
+          "deviation_from_state": "-2.79%"
+        }
+      ],
+      "risk_score": 0.31,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Varora APMC",
+      "market_type": "APMC",
+      "current_price": 1785.68,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1805.79,
+          "trend": "Up",
+          "deviation_from_state": "-4.66%"
+        },
+        {
+          "month": "February",
+          "price": 1896.78,
+          "trend": "Up",
+          "deviation_from_state": "-0.50%"
+        },
+        {
+          "month": "March",
+          "price": 1947.07,
+          "trend": "Up",
+          "deviation_from_state": "1.39%"
+        }
+      ],
+      "risk_score": 0.14,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Achalpur APMC",
+      "market_type": "APMC",
+      "current_price": 1838.45,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1878.72,
+          "trend": "Up",
+          "deviation_from_state": "-0.81%"
+        },
+        {
+          "month": "February",
+          "price": 1906.46,
+          "trend": "Up",
+          "deviation_from_state": "0.01%"
+        },
+        {
+          "month": "March",
+          "price": 1912.58,
+          "trend": "Up",
+          "deviation_from_state": "-0.40%"
+        }
+      ],
+      "risk_score": 0.03,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ahmednagar APMC",
+      "market_type": "APMC",
+      "current_price": 1927.17,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1974.91,
+          "trend": "Up",
+          "deviation_from_state": "4.27%"
+        },
+        {
+          "month": "February",
+          "price": 1937.7,
+          "trend": "Down",
+          "deviation_from_state": "1.65%"
+        },
+        {
+          "month": "March",
+          "price": 1921.82,
+          "trend": "Down",
+          "deviation_from_state": "0.08%"
+        }
+      ],
+      "risk_score": 0.13,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ahmedpur APMC",
+      "market_type": "APMC",
+      "current_price": 1664.32,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1728.82,
+          "trend": "Up",
+          "deviation_from_state": "-8.72%"
+        },
+        {
+          "month": "February",
+          "price": 1726.32,
+          "trend": "Down",
+          "deviation_from_state": "-9.44%"
+        },
+        {
+          "month": "March",
+          "price": 1740.5,
+          "trend": "Up",
+          "deviation_from_state": "-9.37%"
+        }
+      ],
+      "risk_score": 0.61,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Akhadabalapur APMC",
+      "market_type": "APMC",
+      "current_price": 2000.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1929.32,
+          "trend": "Down",
+          "deviation_from_state": "1.86%"
+        },
+        {
+          "month": "February",
+          "price": 1891.62,
+          "trend": "Down",
+          "deviation_from_state": "-0.77%"
+        },
+        {
+          "month": "March",
+          "price": 1899.15,
+          "trend": "Up",
+          "deviation_from_state": "-1.10%"
+        }
+      ],
+      "risk_score": 0.08,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Akluj APMC",
+      "market_type": "APMC",
+      "current_price": 1935.24,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1934.48,
+          "trend": "Down",
+          "deviation_from_state": "2.13%"
+        },
+        {
+          "month": "February",
+          "price": 1932.9,
+          "trend": "Down",
+          "deviation_from_state": "1.40%"
+        },
+        {
+          "month": "March",
+          "price": 1933.98,
+          "trend": "Up",
+          "deviation_from_state": "0.71%"
+        }
+      ],
+      "risk_score": 0.09,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Akola APMC",
+      "market_type": "APMC",
+      "current_price": 2094.47,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2123.36,
+          "trend": "Up",
+          "deviation_from_state": "12.11%"
+        },
+        {
+          "month": "February",
+          "price": 2123.37,
+          "trend": "Up",
+          "deviation_from_state": "11.39%"
+        },
+        {
+          "month": "March",
+          "price": 2130.9,
+          "trend": "Up",
+          "deviation_from_state": "10.96%"
+        }
+      ],
+      "risk_score": 0.76,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Amalner APMC",
+      "market_type": "APMC",
+      "current_price": 2007.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1987.88,
+          "trend": "Down",
+          "deviation_from_state": "4.95%"
+        },
+        {
+          "month": "February",
+          "price": 2045.39,
+          "trend": "Up",
+          "deviation_from_state": "7.30%"
+        },
+        {
+          "month": "March",
+          "price": 2053.27,
+          "trend": "Up",
+          "deviation_from_state": "6.92%"
+        }
+      ],
+      "risk_score": 0.42,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Amarawati APMC",
+      "market_type": "APMC",
+      "current_price": 1924.36,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1938.02,
+          "trend": "Up",
+          "deviation_from_state": "2.32%"
+        },
+        {
+          "month": "February",
+          "price": 1943.85,
+          "trend": "Up",
+          "deviation_from_state": "1.97%"
+        },
+        {
+          "month": "March",
+          "price": 1974.98,
+          "trend": "Up",
+          "deviation_from_state": "2.84%"
+        }
+      ],
+      "risk_score": 0.16,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ambad (Vadigodri) APMC",
+      "market_type": "APMC",
+      "current_price": 1979.16,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1997.32,
+          "trend": "Up",
+          "deviation_from_state": "5.45%"
+        },
+        {
+          "month": "February",
+          "price": 2013.01,
+          "trend": "Up",
+          "deviation_from_state": "5.60%"
+        },
+        {
+          "month": "March",
+          "price": 2000.47,
+          "trend": "Down",
+          "deviation_from_state": "4.17%"
+        }
+      ],
+      "risk_score": 0.33,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Anajngaon APMC",
+      "market_type": "APMC",
+      "current_price": 1848.08,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1881.06,
+          "trend": "Up",
+          "deviation_from_state": "-0.69%"
+        },
+        {
+          "month": "February",
+          "price": 1900.47,
+          "trend": "Up",
+          "deviation_from_state": "-0.31%"
+        },
+        {
+          "month": "March",
+          "price": 1920.21,
+          "trend": "Up",
+          "deviation_from_state": "-0.01%"
+        }
+      ],
+      "risk_score": 0.02,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ashti(Jalna) APMC",
+      "market_type": "APMC",
+      "current_price": 1873.14,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1900.15,
+          "trend": "Up",
+          "deviation_from_state": "0.32%"
+        },
+        {
+          "month": "February",
+          "price": 1913.77,
+          "trend": "Up",
+          "deviation_from_state": "0.39%"
+        },
+        {
+          "month": "March",
+          "price": 1926.75,
+          "trend": "Up",
+          "deviation_from_state": "0.33%"
+        }
+      ],
+      "risk_score": 0.02,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Aurad Shahajani APMC",
+      "market_type": "APMC",
+      "current_price": 1627.43,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1665.98,
+          "trend": "Up",
+          "deviation_from_state": "-12.04%"
+        },
+        {
+          "month": "February",
+          "price": 1704.13,
+          "trend": "Up",
+          "deviation_from_state": "-10.61%"
+        },
+        {
+          "month": "March",
+          "price": 1760.99,
+          "trend": "Up",
+          "deviation_from_state": "-8.30%"
+        }
+      ],
+      "risk_score": 0.68,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Ausa APMC",
+      "market_type": "APMC",
+      "current_price": 1846.85,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1797.79,
+          "trend": "Down",
+          "deviation_from_state": "-5.08%"
+        },
+        {
+          "month": "February",
+          "price": 1782.51,
+          "trend": "Down",
+          "deviation_from_state": "-6.49%"
+        },
+        {
+          "month": "March",
+          "price": 1777.4,
+          "trend": "Down",
+          "deviation_from_state": "-7.44%"
+        }
+      ],
+      "risk_score": 0.42,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Balapur APMC",
+      "market_type": "APMC",
+      "current_price": 1732.55,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1763.5,
+          "trend": "Up",
+          "deviation_from_state": "-6.89%"
+        },
+        {
+          "month": "February",
+          "price": 1776.48,
+          "trend": "Up",
+          "deviation_from_state": "-6.81%"
+        },
+        {
+          "month": "March",
+          "price": 1778.77,
+          "trend": "Up",
+          "deviation_from_state": "-7.37%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Baramati APMC",
+      "market_type": "APMC",
+      "current_price": 1998.41,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1997.32,
+          "trend": "Down",
+          "deviation_from_state": "5.45%"
+        },
+        {
+          "month": "February",
+          "price": 2011.82,
+          "trend": "Up",
+          "deviation_from_state": "5.54%"
+        },
+        {
+          "month": "March",
+          "price": 1998.39,
+          "trend": "Down",
+          "deviation_from_state": "4.06%"
+        }
+      ],
+      "risk_score": 0.33,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Barshi APMC",
+      "market_type": "APMC",
+      "current_price": 1900.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1900.76,
+          "trend": "Up",
+          "deviation_from_state": "0.35%"
+        },
+        {
+          "month": "February",
+          "price": 1923.15,
+          "trend": "Up",
+          "deviation_from_state": "0.88%"
+        },
+        {
+          "month": "March",
+          "price": 1932.96,
+          "trend": "Up",
+          "deviation_from_state": "0.66%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Barshi(Vairag) APMC",
+      "market_type": "APMC",
+      "current_price": 1558.88,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1563.82,
+          "trend": "Up",
+          "deviation_from_state": "-17.44%"
+        },
+        {
+          "month": "February",
+          "price": 1695.43,
+          "trend": "Up",
+          "deviation_from_state": "-11.06%"
+        },
+        {
+          "month": "March",
+          "price": 1735.87,
+          "trend": "Up",
+          "deviation_from_state": "-9.61%"
+        }
+      ],
+      "risk_score": 0.83,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Beed APMC",
+      "market_type": "APMC",
+      "current_price": 1927.83,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1943.22,
+          "trend": "Up",
+          "deviation_from_state": "2.59%"
+        },
+        {
+          "month": "February",
+          "price": 1979.13,
+          "trend": "Up",
+          "deviation_from_state": "3.82%"
+        },
+        {
+          "month": "March",
+          "price": 1993.94,
+          "trend": "Up",
+          "deviation_from_state": "3.83%"
+        }
+      ],
+      "risk_score": 0.23,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Bhandara APMC",
+      "market_type": "APMC",
+      "current_price": 1699.17,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1830.7,
+          "trend": "Up",
+          "deviation_from_state": "-3.35%"
+        },
+        {
+          "month": "February",
+          "price": 1827.76,
+          "trend": "Down",
+          "deviation_from_state": "-4.12%"
+        },
+        {
+          "month": "March",
+          "price": 1856.19,
+          "trend": "Up",
+          "deviation_from_state": "-3.34%"
+        }
+      ],
+      "risk_score": 0.24,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Bhivandi APMC",
+      "market_type": "APMC",
+      "current_price": 1886.79,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1879.52,
+          "trend": "Down",
+          "deviation_from_state": "-0.77%"
+        },
+        {
+          "month": "February",
+          "price": 1882.3,
+          "trend": "Up",
+          "deviation_from_state": "-1.26%"
+        },
+        {
+          "month": "March",
+          "price": 1883.56,
+          "trend": "Up",
+          "deviation_from_state": "-1.92%"
+        }
+      ],
+      "risk_score": 0.09,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Bhiwapur APMC",
+      "market_type": "APMC",
+      "current_price": 1741.61,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1769.6,
+          "trend": "Up",
+          "deviation_from_state": "-6.57%"
+        },
+        {
+          "month": "February",
+          "price": 1773.87,
+          "trend": "Up",
+          "deviation_from_state": "-6.95%"
+        },
+        {
+          "month": "March",
+          "price": 1777.91,
+          "trend": "Up",
+          "deviation_from_state": "-7.42%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Bhokar APMC",
+      "market_type": "APMC",
+      "current_price": 1880.43,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1880.84,
+          "trend": "Up",
+          "deviation_from_state": "-0.70%"
+        },
+        {
+          "month": "February",
+          "price": 1889.45,
+          "trend": "Up",
+          "deviation_from_state": "-0.88%"
+        },
+        {
+          "month": "March",
+          "price": 1898.25,
+          "trend": "Up",
+          "deviation_from_state": "-1.15%"
+        }
+      ],
+      "risk_score": 0.06,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Bhokardan APMC",
+      "market_type": "APMC",
+      "current_price": 1812.07,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1855.12,
+          "trend": "Up",
+          "deviation_from_state": "-2.06%"
+        },
+        {
+          "month": "February",
+          "price": 1910.75,
+          "trend": "Up",
+          "deviation_from_state": "0.23%"
+        },
+        {
+          "month": "March",
+          "price": 1926.2,
+          "trend": "Up",
+          "deviation_from_state": "0.30%"
+        }
+      ],
+      "risk_score": 0.06,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Bhokardan(Pimpalgaon Renu) APMC",
+      "market_type": "APMC",
+      "current_price": 1783.33,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1787.33,
+          "trend": "Up",
+          "deviation_from_state": "-5.64%"
+        },
+        {
+          "month": "February",
+          "price": 1797.78,
+          "trend": "Up",
+          "deviation_from_state": "-5.69%"
+        },
+        {
+          "month": "March",
+          "price": 1797.61,
+          "trend": "Down",
+          "deviation_from_state": "-6.39%"
+        }
+      ],
+      "risk_score": 0.39,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Bori APMC",
+      "market_type": "APMC",
+      "current_price": 1563.33,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1652.38,
+          "trend": "Up",
+          "deviation_from_state": "-12.76%"
+        },
+        {
+          "month": "February",
+          "price": 1689.38,
+          "trend": "Up",
+          "deviation_from_state": "-11.38%"
+        },
+        {
+          "month": "March",
+          "price": 1710.31,
+          "trend": "Up",
+          "deviation_from_state": "-10.94%"
+        }
+      ],
+      "risk_score": 0.77,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Buldhana(Dhad) APMC",
+      "market_type": "APMC",
+      "current_price": 1756.51,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1769.04,
+          "trend": "Up",
+          "deviation_from_state": "-6.60%"
+        },
+        {
+          "month": "February",
+          "price": 1771.1,
+          "trend": "Up",
+          "deviation_from_state": "-7.09%"
+        },
+        {
+          "month": "March",
+          "price": 1771.27,
+          "trend": "Up",
+          "deviation_from_state": "-7.76%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Chakur APMC",
+      "market_type": "APMC",
+      "current_price": 1625.54,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1681.39,
+          "trend": "Up",
+          "deviation_from_state": "-11.23%"
+        },
+        {
+          "month": "February",
+          "price": 1735.51,
+          "trend": "Up",
+          "deviation_from_state": "-8.96%"
+        },
+        {
+          "month": "March",
+          "price": 1784.15,
+          "trend": "Up",
+          "deviation_from_state": "-7.09%"
+        }
+      ],
+      "risk_score": 0.6,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Chalisgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1838.63,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1886.32,
+          "trend": "Up",
+          "deviation_from_state": "-0.41%"
+        },
+        {
+          "month": "February",
+          "price": 1854.23,
+          "trend": "Down",
+          "deviation_from_state": "-2.73%"
+        },
+        {
+          "month": "March",
+          "price": 1889.12,
+          "trend": "Up",
+          "deviation_from_state": "-1.63%"
+        }
+      ],
+      "risk_score": 0.11,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Chandur Bazar APMC",
+      "market_type": "APMC",
+      "current_price": 1718.6,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1765.87,
+          "trend": "Up",
+          "deviation_from_state": "-6.77%"
+        },
+        {
+          "month": "February",
+          "price": 1776.27,
+          "trend": "Up",
+          "deviation_from_state": "-6.82%"
+        },
+        {
+          "month": "March",
+          "price": 1780.67,
+          "trend": "Up",
+          "deviation_from_state": "-7.27%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Chattrapati Sambhajinagar APMC",
+      "market_type": "APMC",
+      "current_price": 2029.33,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2042.95,
+          "trend": "Up",
+          "deviation_from_state": "7.86%"
+        },
+        {
+          "month": "February",
+          "price": 2051.62,
+          "trend": "Up",
+          "deviation_from_state": "7.62%"
+        },
+        {
+          "month": "March",
+          "price": 2051.62,
+          "trend": "Down",
+          "deviation_from_state": "6.84%"
+        }
+      ],
+      "risk_score": 0.49,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Chikali APMC",
+      "market_type": "APMC",
+      "current_price": 1659.66,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1672.78,
+          "trend": "Up",
+          "deviation_from_state": "-11.68%"
+        },
+        {
+          "month": "February",
+          "price": 1725.75,
+          "trend": "Up",
+          "deviation_from_state": "-9.47%"
+        },
+        {
+          "month": "March",
+          "price": 1752.95,
+          "trend": "Up",
+          "deviation_from_state": "-8.72%"
+        }
+      ],
+      "risk_score": 0.65,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Chopada APMC",
+      "market_type": "APMC",
+      "current_price": 1841.48,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1898.08,
+          "trend": "Up",
+          "deviation_from_state": "0.21%"
+        },
+        {
+          "month": "February",
+          "price": 1916.0,
+          "trend": "Up",
+          "deviation_from_state": "0.51%"
+        },
+        {
+          "month": "March",
+          "price": 1938.34,
+          "trend": "Up",
+          "deviation_from_state": "0.94%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Deoulgaon Raja APMC",
+      "market_type": "APMC",
+      "current_price": 1785.42,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1787.06,
+          "trend": "Up",
+          "deviation_from_state": "-5.65%"
+        },
+        {
+          "month": "February",
+          "price": 1801.94,
+          "trend": "Up",
+          "deviation_from_state": "-5.47%"
+        },
+        {
+          "month": "March",
+          "price": 1811.76,
+          "trend": "Up",
+          "deviation_from_state": "-5.65%"
+        }
+      ],
+      "risk_score": 0.37,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Devala APMC",
+      "market_type": "APMC",
+      "current_price": 1880.87,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1904.78,
+          "trend": "Up",
+          "deviation_from_state": "0.57%"
+        },
+        {
+          "month": "February",
+          "price": 1922.24,
+          "trend": "Up",
+          "deviation_from_state": "0.84%"
+        },
+        {
+          "month": "March",
+          "price": 1936.81,
+          "trend": "Up",
+          "deviation_from_state": "0.86%"
+        }
+      ],
+      "risk_score": 0.05,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Dharangaon APMC",
+      "market_type": "APMC",
+      "current_price": 1944.75,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1942.19,
+          "trend": "Down",
+          "deviation_from_state": "2.54%"
+        },
+        {
+          "month": "February",
+          "price": 1962.33,
+          "trend": "Up",
+          "deviation_from_state": "2.94%"
+        },
+        {
+          "month": "March",
+          "price": 1973.58,
+          "trend": "Up",
+          "deviation_from_state": "2.77%"
+        }
+      ],
+      "risk_score": 0.18,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Dhule APMC",
+      "market_type": "APMC",
+      "current_price": 2010.7,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2028.68,
+          "trend": "Up",
+          "deviation_from_state": "7.11%"
+        },
+        {
+          "month": "February",
+          "price": 2042.38,
+          "trend": "Up",
+          "deviation_from_state": "7.14%"
+        },
+        {
+          "month": "March",
+          "price": 2051.92,
+          "trend": "Up",
+          "deviation_from_state": "6.85%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Digras APMC",
+      "market_type": "APMC",
+      "current_price": 2055.72,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2067.58,
+          "trend": "Up",
+          "deviation_from_state": "9.16%"
+        },
+        {
+          "month": "February",
+          "price": 2064.74,
+          "trend": "Down",
+          "deviation_from_state": "8.31%"
+        },
+        {
+          "month": "March",
+          "price": 2067.34,
+          "trend": "Up",
+          "deviation_from_state": "7.65%"
+        }
+      ],
+      "risk_score": 0.55,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Dondaicha APMC",
+      "market_type": "APMC",
+      "current_price": 1979.7,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2014.13,
+          "trend": "Up",
+          "deviation_from_state": "6.34%"
+        },
+        {
+          "month": "February",
+          "price": 2002.08,
+          "trend": "Down",
+          "deviation_from_state": "5.02%"
+        },
+        {
+          "month": "March",
+          "price": 2020.47,
+          "trend": "Up",
+          "deviation_from_state": "5.21%"
+        }
+      ],
+      "risk_score": 0.36,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Dound APMC",
+      "market_type": "APMC",
+      "current_price": 1843.6,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1914.88,
+          "trend": "Up",
+          "deviation_from_state": "1.10%"
+        },
+        {
+          "month": "February",
+          "price": 1939.68,
+          "trend": "Up",
+          "deviation_from_state": "1.75%"
+        },
+        {
+          "month": "March",
+          "price": 1976.47,
+          "trend": "Up",
+          "deviation_from_state": "2.92%"
+        }
+      ],
+      "risk_score": 0.13,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Gangakhed APMC",
+      "market_type": "APMC",
+      "current_price": 2100.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2119.41,
+          "trend": "Up",
+          "deviation_from_state": "11.90%"
+        },
+        {
+          "month": "February",
+          "price": 2133.35,
+          "trend": "Up",
+          "deviation_from_state": "11.91%"
+        },
+        {
+          "month": "March",
+          "price": 2137.71,
+          "trend": "Up",
+          "deviation_from_state": "11.32%"
+        }
+      ],
+      "risk_score": 0.77,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Gangapur APMC",
+      "market_type": "APMC",
+      "current_price": 1984.12,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1977.93,
+          "trend": "Down",
+          "deviation_from_state": "4.43%"
+        },
+        {
+          "month": "February",
+          "price": 2004.73,
+          "trend": "Up",
+          "deviation_from_state": "5.16%"
+        },
+        {
+          "month": "March",
+          "price": 1990.14,
+          "trend": "Down",
+          "deviation_from_state": "3.63%"
+        }
+      ],
+      "risk_score": 0.29,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Gevrai APMC",
+      "market_type": "APMC",
+      "current_price": 1994.74,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2022.17,
+          "trend": "Up",
+          "deviation_from_state": "6.76%"
+        },
+        {
+          "month": "February",
+          "price": 2015.58,
+          "trend": "Down",
+          "deviation_from_state": "5.73%"
+        },
+        {
+          "month": "March",
+          "price": 2010.72,
+          "trend": "Down",
+          "deviation_from_state": "4.71%"
+        }
+      ],
+      "risk_score": 0.38,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Ghansawangi APMC",
+      "market_type": "APMC",
+      "current_price": 1662.5,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1742.2,
+          "trend": "Up",
+          "deviation_from_state": "-8.02%"
+        },
+        {
+          "month": "February",
+          "price": 1745.71,
+          "trend": "Up",
+          "deviation_from_state": "-8.42%"
+        },
+        {
+          "month": "March",
+          "price": 1765.99,
+          "trend": "Up",
+          "deviation_from_state": "-8.04%"
+        }
+      ],
+      "risk_score": 0.54,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Himalyatnagar APMC",
+      "market_type": "APMC",
+      "current_price": 1750.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1757.98,
+          "trend": "Up",
+          "deviation_from_state": "-7.19%"
+        },
+        {
+          "month": "February",
+          "price": 1763.5,
+          "trend": "Up",
+          "deviation_from_state": "-7.49%"
+        },
+        {
+          "month": "March",
+          "price": 1763.0,
+          "trend": "Down",
+          "deviation_from_state": "-8.19%"
+        }
+      ],
+      "risk_score": 0.5,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Hinganghat APMC",
+      "market_type": "APMC",
+      "current_price": 1833.97,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1871.09,
+          "trend": "Up",
+          "deviation_from_state": "-1.21%"
+        },
+        {
+          "month": "February",
+          "price": 1902.23,
+          "trend": "Up",
+          "deviation_from_state": "-0.21%"
+        },
+        {
+          "month": "March",
+          "price": 1926.44,
+          "trend": "Up",
+          "deviation_from_state": "0.32%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Hingoli APMC",
+      "market_type": "APMC",
+      "current_price": 1902.56,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1922.94,
+          "trend": "Up",
+          "deviation_from_state": "1.52%"
+        },
+        {
+          "month": "February",
+          "price": 1943.96,
+          "trend": "Up",
+          "deviation_from_state": "1.98%"
+        },
+        {
+          "month": "March",
+          "price": 1985.5,
+          "trend": "Up",
+          "deviation_from_state": "3.39%"
+        }
+      ],
+      "risk_score": 0.15,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Jafrabad APMC",
+      "market_type": "APMC",
+      "current_price": 1850.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1851.34,
+          "trend": "Up",
+          "deviation_from_state": "-2.26%"
+        },
+        {
+          "month": "February",
+          "price": 1852.55,
+          "trend": "Up",
+          "deviation_from_state": "-2.82%"
+        },
+        {
+          "month": "March",
+          "price": 1898.4,
+          "trend": "Up",
+          "deviation_from_state": "-1.14%"
+        }
+      ],
+      "risk_score": 0.14,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Jalana APMC",
+      "market_type": "APMC",
+      "current_price": 2025.76,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2012.54,
+          "trend": "Down",
+          "deviation_from_state": "6.25%"
+        },
+        {
+          "month": "February",
+          "price": 2002.94,
+          "trend": "Down",
+          "deviation_from_state": "5.07%"
+        },
+        {
+          "month": "March",
+          "price": 2015.48,
+          "trend": "Up",
+          "deviation_from_state": "4.95%"
+        }
+      ],
+      "risk_score": 0.36,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Jalgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1887.5,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1917.92,
+          "trend": "Up",
+          "deviation_from_state": "1.26%"
+        },
+        {
+          "month": "February",
+          "price": 1915.38,
+          "trend": "Down",
+          "deviation_from_state": "0.48%"
+        },
+        {
+          "month": "March",
+          "price": 1927.85,
+          "trend": "Up",
+          "deviation_from_state": "0.39%"
+        }
+      ],
+      "risk_score": 0.05,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Jamkhed APMC",
+      "market_type": "APMC",
+      "current_price": 1712.18,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1802.44,
+          "trend": "Up",
+          "deviation_from_state": "-4.84%"
+        },
+        {
+          "month": "February",
+          "price": 1809.88,
+          "trend": "Up",
+          "deviation_from_state": "-5.06%"
+        },
+        {
+          "month": "March",
+          "price": 1837.46,
+          "trend": "Up",
+          "deviation_from_state": "-4.32%"
+        }
+      ],
+      "risk_score": 0.31,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Jawala-Bajar APMC",
+      "market_type": "APMC",
+      "current_price": 1640.7,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1685.47,
+          "trend": "Up",
+          "deviation_from_state": "-11.01%"
+        },
+        {
+          "month": "February",
+          "price": 1713.21,
+          "trend": "Up",
+          "deviation_from_state": "-10.13%"
+        },
+        {
+          "month": "March",
+          "price": 1749.49,
+          "trend": "Up",
+          "deviation_from_state": "-8.90%"
+        }
+      ],
+      "risk_score": 0.66,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Jintur APMC",
+      "market_type": "APMC",
+      "current_price": 1849.18,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1878.81,
+          "trend": "Up",
+          "deviation_from_state": "-0.81%"
+        },
+        {
+          "month": "February",
+          "price": 1909.0,
+          "trend": "Up",
+          "deviation_from_state": "0.14%"
+        },
+        {
+          "month": "March",
+          "price": 1937.16,
+          "trend": "Up",
+          "deviation_from_state": "0.88%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Kada APMC",
+      "market_type": "APMC",
+      "current_price": 1725.58,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1764.56,
+          "trend": "Up",
+          "deviation_from_state": "-6.84%"
+        },
+        {
+          "month": "February",
+          "price": 1776.57,
+          "trend": "Up",
+          "deviation_from_state": "-6.81%"
+        },
+        {
+          "month": "March",
+          "price": 1780.97,
+          "trend": "Up",
+          "deviation_from_state": "-7.26%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kaij APMC",
+      "market_type": "APMC",
+      "current_price": 1686.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1738.85,
+          "trend": "Up",
+          "deviation_from_state": "-8.20%"
+        },
+        {
+          "month": "February",
+          "price": 1760.05,
+          "trend": "Up",
+          "deviation_from_state": "-7.67%"
+        },
+        {
+          "month": "March",
+          "price": 1774.02,
+          "trend": "Up",
+          "deviation_from_state": "-7.62%"
+        }
+      ],
+      "risk_score": 0.52,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kalamb (Dharashiv) APMC",
+      "market_type": "APMC",
+      "current_price": 1643.44,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1706.91,
+          "trend": "Up",
+          "deviation_from_state": "-9.88%"
+        },
+        {
+          "month": "February",
+          "price": 1741.4,
+          "trend": "Up",
+          "deviation_from_state": "-8.65%"
+        },
+        {
+          "month": "March",
+          "price": 1761.33,
+          "trend": "Up",
+          "deviation_from_state": "-8.28%"
+        }
+      ],
+      "risk_score": 0.59,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kalvan APMC",
+      "market_type": "APMC",
+      "current_price": 1725.45,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1737.92,
+          "trend": "Up",
+          "deviation_from_state": "-8.24%"
+        },
+        {
+          "month": "February",
+          "price": 1776.71,
+          "trend": "Up",
+          "deviation_from_state": "-6.80%"
+        },
+        {
+          "month": "March",
+          "price": 1797.86,
+          "trend": "Up",
+          "deviation_from_state": "-6.38%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kannad APMC",
+      "market_type": "APMC",
+      "current_price": 1951.23,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1987.13,
+          "trend": "Up",
+          "deviation_from_state": "4.91%"
+        },
+        {
+          "month": "February",
+          "price": 2015.37,
+          "trend": "Up",
+          "deviation_from_state": "5.72%"
+        },
+        {
+          "month": "March",
+          "price": 2002.83,
+          "trend": "Down",
+          "deviation_from_state": "4.29%"
+        }
+      ],
+      "risk_score": 0.33,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Karanja APMC",
+      "market_type": "APMC",
+      "current_price": 1951.62,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1994.82,
+          "trend": "Up",
+          "deviation_from_state": "5.32%"
+        },
+        {
+          "month": "February",
+          "price": 2016.85,
+          "trend": "Up",
+          "deviation_from_state": "5.80%"
+        },
+        {
+          "month": "March",
+          "price": 2008.18,
+          "trend": "Down",
+          "deviation_from_state": "4.57%"
+        }
+      ],
+      "risk_score": 0.34,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Karjat(Raigad) APMC",
+      "market_type": "APMC",
+      "current_price": 1684.38,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1729.5,
+          "trend": "Up",
+          "deviation_from_state": "-8.69%"
+        },
+        {
+          "month": "February",
+          "price": 1755.63,
+          "trend": "Up",
+          "deviation_from_state": "-7.90%"
+        },
+        {
+          "month": "March",
+          "price": 1774.96,
+          "trend": "Up",
+          "deviation_from_state": "-7.57%"
+        }
+      ],
+      "risk_score": 0.53,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Karmala APMC",
+      "market_type": "APMC",
+      "current_price": 1783.06,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1775.06,
+          "trend": "Down",
+          "deviation_from_state": "-6.28%"
+        },
+        {
+          "month": "February",
+          "price": 1776.45,
+          "trend": "Up",
+          "deviation_from_state": "-6.81%"
+        },
+        {
+          "month": "March",
+          "price": 1772.91,
+          "trend": "Down",
+          "deviation_from_state": "-7.68%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Katol APMC",
+      "market_type": "APMC",
+      "current_price": 1807.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1841.47,
+          "trend": "Up",
+          "deviation_from_state": "-2.78%"
+        },
+        {
+          "month": "February",
+          "price": 1874.99,
+          "trend": "Up",
+          "deviation_from_state": "-1.64%"
+        },
+        {
+          "month": "March",
+          "price": 1911.92,
+          "trend": "Up",
+          "deviation_from_state": "-0.44%"
+        }
+      ],
+      "risk_score": 0.1,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Khamgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1815.63,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1869.04,
+          "trend": "Up",
+          "deviation_from_state": "-1.32%"
+        },
+        {
+          "month": "February",
+          "price": 1908.82,
+          "trend": "Up",
+          "deviation_from_state": "0.13%"
+        },
+        {
+          "month": "March",
+          "price": 1936.06,
+          "trend": "Up",
+          "deviation_from_state": "0.82%"
+        }
+      ],
+      "risk_score": 0.05,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Kille Dharur APMC",
+      "market_type": "APMC",
+      "current_price": 1779.35,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1777.39,
+          "trend": "Down",
+          "deviation_from_state": "-6.16%"
+        },
+        {
+          "month": "February",
+          "price": 1789.96,
+          "trend": "Up",
+          "deviation_from_state": "-6.10%"
+        },
+        {
+          "month": "March",
+          "price": 1800.24,
+          "trend": "Up",
+          "deviation_from_state": "-6.25%"
+        }
+      ],
+      "risk_score": 0.41,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kopargaon APMC",
+      "market_type": "APMC",
+      "current_price": 1925.7,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1946.2,
+          "trend": "Up",
+          "deviation_from_state": "2.75%"
+        },
+        {
+          "month": "February",
+          "price": 1986.87,
+          "trend": "Up",
+          "deviation_from_state": "4.23%"
+        },
+        {
+          "month": "March",
+          "price": 2018.25,
+          "trend": "Up",
+          "deviation_from_state": "5.10%"
+        }
+      ],
+      "risk_score": 0.27,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Kurdwadi APMC",
+      "market_type": "APMC",
+      "current_price": 2000.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2073.08,
+          "trend": "Up",
+          "deviation_from_state": "9.45%"
+        },
+        {
+          "month": "February",
+          "price": 2038.51,
+          "trend": "Down",
+          "deviation_from_state": "6.94%"
+        },
+        {
+          "month": "March",
+          "price": 2007.29,
+          "trend": "Down",
+          "deviation_from_state": "4.53%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Kurdwadi(Modnimb) APMC",
+      "market_type": "APMC",
+      "current_price": 1820.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1793.71,
+          "trend": "Down",
+          "deviation_from_state": "-5.30%"
+        },
+        {
+          "month": "February",
+          "price": 1793.65,
+          "trend": "Down",
+          "deviation_from_state": "-5.91%"
+        },
+        {
+          "month": "March",
+          "price": 1790.1,
+          "trend": "Down",
+          "deviation_from_state": "-6.78%"
+        }
+      ],
+      "risk_score": 0.4,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Lakhandur APMC",
+      "market_type": "APMC",
+      "current_price": 1775.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1768.44,
+          "trend": "Down",
+          "deviation_from_state": "-6.63%"
+        },
+        {
+          "month": "February",
+          "price": 1772.87,
+          "trend": "Up",
+          "deviation_from_state": "-7.00%"
+        },
+        {
+          "month": "March",
+          "price": 1768.61,
+          "trend": "Down",
+          "deviation_from_state": "-7.90%"
+        }
+      ],
+      "risk_score": 0.48,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Lasalgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1989.8,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2022.17,
+          "trend": "Up",
+          "deviation_from_state": "6.76%"
+        },
+        {
+          "month": "February",
+          "price": 2015.58,
+          "trend": "Down",
+          "deviation_from_state": "5.73%"
+        },
+        {
+          "month": "March",
+          "price": 2010.72,
+          "trend": "Down",
+          "deviation_from_state": "4.71%"
+        }
+      ],
+      "risk_score": 0.38,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Lasalgaon(Niphad) APMC",
+      "market_type": "APMC",
+      "current_price": 2022.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2015.77,
+          "trend": "Down",
+          "deviation_from_state": "6.43%"
+        },
+        {
+          "month": "February",
+          "price": 2010.91,
+          "trend": "Down",
+          "deviation_from_state": "5.49%"
+        },
+        {
+          "month": "March",
+          "price": 2010.91,
+          "trend": "Down",
+          "deviation_from_state": "4.72%"
+        }
+      ],
+      "risk_score": 0.36,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Lasalgaon(Vinchur) APMC",
+      "market_type": "APMC",
+      "current_price": 1953.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1941.1,
+          "trend": "Down",
+          "deviation_from_state": "2.48%"
+        },
+        {
+          "month": "February",
+          "price": 1972.03,
+          "trend": "Up",
+          "deviation_from_state": "3.45%"
+        },
+        {
+          "month": "March",
+          "price": 1983.57,
+          "trend": "Up",
+          "deviation_from_state": "3.29%"
+        }
+      ],
+      "risk_score": 0.2,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Lasur Station APMC",
+      "market_type": "APMC",
+      "current_price": 1961.95,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2004.38,
+          "trend": "Up",
+          "deviation_from_state": "5.82%"
+        },
+        {
+          "month": "February",
+          "price": 1987.72,
+          "trend": "Down",
+          "deviation_from_state": "4.27%"
+        },
+        {
+          "month": "March",
+          "price": 2020.47,
+          "trend": "Up",
+          "deviation_from_state": "5.21%"
+        }
+      ],
+      "risk_score": 0.34,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Latur APMC",
+      "market_type": "APMC",
+      "current_price": 2079.38,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2074.32,
+          "trend": "Down",
+          "deviation_from_state": "9.52%"
+        },
+        {
+          "month": "February",
+          "price": 2089.77,
+          "trend": "Up",
+          "deviation_from_state": "9.62%"
+        },
+        {
+          "month": "March",
+          "price": 2119.92,
+          "trend": "Up",
+          "deviation_from_state": "10.39%"
+        }
+      ],
+      "risk_score": 0.65,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Latur(Murud) APMC",
+      "market_type": "APMC",
+      "current_price": 1300.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1475.84,
+          "trend": "Up",
+          "deviation_from_state": "-22.08%"
+        },
+        {
+          "month": "February",
+          "price": 1545.81,
+          "trend": "Up",
+          "deviation_from_state": "-18.91%"
+        },
+        {
+          "month": "March",
+          "price": 1549.44,
+          "trend": "Up",
+          "deviation_from_state": "-19.31%"
+        }
+      ],
+      "risk_score": 1.32,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Loha APMC",
+      "market_type": "APMC",
+      "current_price": 1608.89,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1647.75,
+          "trend": "Up",
+          "deviation_from_state": "-13.00%"
+        },
+        {
+          "month": "February",
+          "price": 1669.64,
+          "trend": "Up",
+          "deviation_from_state": "-12.41%"
+        },
+        {
+          "month": "March",
+          "price": 1707.74,
+          "trend": "Up",
+          "deviation_from_state": "-11.07%"
+        }
+      ],
+      "risk_score": 0.8,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Lonar APMC",
+      "market_type": "APMC",
+      "current_price": 1836.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1875.96,
+          "trend": "Up",
+          "deviation_from_state": "-0.96%"
+        },
+        {
+          "month": "February",
+          "price": 1908.98,
+          "trend": "Up",
+          "deviation_from_state": "0.14%"
+        },
+        {
+          "month": "March",
+          "price": 1937.14,
+          "trend": "Up",
+          "deviation_from_state": "0.87%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Majalgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1916.38,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1948.7,
+          "trend": "Up",
+          "deviation_from_state": "2.88%"
+        },
+        {
+          "month": "February",
+          "price": 1981.63,
+          "trend": "Up",
+          "deviation_from_state": "3.95%"
+        },
+        {
+          "month": "March",
+          "price": 1998.72,
+          "trend": "Up",
+          "deviation_from_state": "4.08%"
+        }
+      ],
+      "risk_score": 0.24,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Malegaon APMC",
+      "market_type": "APMC",
+      "current_price": 2020.85,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2030.84,
+          "trend": "Up",
+          "deviation_from_state": "7.22%"
+        },
+        {
+          "month": "February",
+          "price": 2055.78,
+          "trend": "Up",
+          "deviation_from_state": "7.84%"
+        },
+        {
+          "month": "March",
+          "price": 2077.0,
+          "trend": "Up",
+          "deviation_from_state": "8.16%"
+        }
+      ],
+      "risk_score": 0.51,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Malkapur APMC",
+      "market_type": "APMC",
+      "current_price": 1894.88,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1929.25,
+          "trend": "Up",
+          "deviation_from_state": "1.86%"
+        },
+        {
+          "month": "February",
+          "price": 1938.37,
+          "trend": "Up",
+          "deviation_from_state": "1.68%"
+        },
+        {
+          "month": "March",
+          "price": 1951.59,
+          "trend": "Up",
+          "deviation_from_state": "1.63%"
+        }
+      ],
+      "risk_score": 0.11,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Mangal Wedha APMC",
+      "market_type": "APMC",
+      "current_price": 2264.13,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2217.37,
+          "trend": "Down",
+          "deviation_from_state": "17.07%"
+        },
+        {
+          "month": "February",
+          "price": 2215.92,
+          "trend": "Down",
+          "deviation_from_state": "16.24%"
+        },
+        {
+          "month": "March",
+          "price": 2212.54,
+          "trend": "Down",
+          "deviation_from_state": "15.22%"
+        }
+      ],
+      "risk_score": 1.07,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Mangrulpeer APMC",
+      "market_type": "APMC",
+      "current_price": 1871.46,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1899.48,
+          "trend": "Up",
+          "deviation_from_state": "0.29%"
+        },
+        {
+          "month": "February",
+          "price": 1919.82,
+          "trend": "Up",
+          "deviation_from_state": "0.71%"
+        },
+        {
+          "month": "March",
+          "price": 1934.38,
+          "trend": "Up",
+          "deviation_from_state": "0.73%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Manmad APMC",
+      "market_type": "APMC",
+      "current_price": 1837.13,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1870.9,
+          "trend": "Up",
+          "deviation_from_state": "-1.22%"
+        },
+        {
+          "month": "February",
+          "price": 1901.92,
+          "trend": "Up",
+          "deviation_from_state": "-0.23%"
+        },
+        {
+          "month": "March",
+          "price": 1926.12,
+          "trend": "Up",
+          "deviation_from_state": "0.30%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Manora APMC",
+      "market_type": "APMC",
+      "current_price": 1828.57,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1838.43,
+          "trend": "Up",
+          "deviation_from_state": "-2.94%"
+        },
+        {
+          "month": "February",
+          "price": 1871.03,
+          "trend": "Up",
+          "deviation_from_state": "-1.85%"
+        },
+        {
+          "month": "March",
+          "price": 1885.19,
+          "trend": "Up",
+          "deviation_from_state": "-1.83%"
+        }
+      ],
+      "risk_score": 0.14,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Mantha APMC",
+      "market_type": "APMC",
+      "current_price": 1700.72,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1763.09,
+          "trend": "Up",
+          "deviation_from_state": "-6.92%"
+        },
+        {
+          "month": "February",
+          "price": 1768.84,
+          "trend": "Up",
+          "deviation_from_state": "-7.21%"
+        },
+        {
+          "month": "March",
+          "price": 1779.32,
+          "trend": "Up",
+          "deviation_from_state": "-7.34%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Manwat APMC",
+      "market_type": "APMC",
+      "current_price": 2600.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2419.45,
+          "trend": "Down",
+          "deviation_from_state": "27.74%"
+        },
+        {
+          "month": "February",
+          "price": 2154.06,
+          "trend": "Down",
+          "deviation_from_state": "13.00%"
+        },
+        {
+          "month": "March",
+          "price": 2115.54,
+          "trend": "Down",
+          "deviation_from_state": "10.16%"
+        }
+      ],
+      "risk_score": 1.1,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Mehekar APMC",
+      "market_type": "APMC",
+      "current_price": 1632.58,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1686.63,
+          "trend": "Up",
+          "deviation_from_state": "-10.95%"
+        },
+        {
+          "month": "February",
+          "price": 1716.12,
+          "trend": "Up",
+          "deviation_from_state": "-9.98%"
+        },
+        {
+          "month": "March",
+          "price": 1750.81,
+          "trend": "Up",
+          "deviation_from_state": "-8.83%"
+        }
+      ],
+      "risk_score": 0.65,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Morshi APMC",
+      "market_type": "APMC",
+      "current_price": 1745.54,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1770.28,
+          "trend": "Up",
+          "deviation_from_state": "-6.54%"
+        },
+        {
+          "month": "February",
+          "price": 1777.83,
+          "trend": "Up",
+          "deviation_from_state": "-6.74%"
+        },
+        {
+          "month": "March",
+          "price": 1792.88,
+          "trend": "Up",
+          "deviation_from_state": "-6.64%"
+        }
+      ],
+      "risk_score": 0.44,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Mumbai APMC",
+      "market_type": "APMC",
+      "current_price": 3092.14,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 3435.25,
+          "trend": "Up",
+          "deviation_from_state": "81.37%"
+        },
+        {
+          "month": "February",
+          "price": 3300.11,
+          "trend": "Down",
+          "deviation_from_state": "73.12%"
+        },
+        {
+          "month": "March",
+          "price": 3322.79,
+          "trend": "Up",
+          "deviation_from_state": "73.03%"
+        }
+      ],
+      "risk_score": 5.0,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Murtizapur APMC",
+      "market_type": "APMC",
+      "current_price": 1845.3,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1799.56,
+          "trend": "Down",
+          "deviation_from_state": "-4.99%"
+        },
+        {
+          "month": "February",
+          "price": 1800.09,
+          "trend": "Up",
+          "deviation_from_state": "-5.57%"
+        },
+        {
+          "month": "March",
+          "price": 1808.48,
+          "trend": "Up",
+          "deviation_from_state": "-5.83%"
+        }
+      ],
+      "risk_score": 0.36,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Murum APMC",
+      "market_type": "APMC",
+      "current_price": 1511.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1685.36,
+          "trend": "Up",
+          "deviation_from_state": "-11.02%"
+        },
+        {
+          "month": "February",
+          "price": 1717.37,
+          "trend": "Up",
+          "deviation_from_state": "-9.91%"
+        },
+        {
+          "month": "March",
+          "price": 1739.15,
+          "trend": "Up",
+          "deviation_from_state": "-9.44%"
+        }
+      ],
+      "risk_score": 0.67,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Nagpur APMC",
+      "market_type": "APMC",
+      "current_price": 4885.19,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2366.22,
+          "trend": "Down",
+          "deviation_from_state": "24.93%"
+        },
+        {
+          "month": "February",
+          "price": 3508.94,
+          "trend": "Up",
+          "deviation_from_state": "84.07%"
+        },
+        {
+          "month": "March",
+          "price": 2493.66,
+          "trend": "Down",
+          "deviation_from_state": "29.85%"
+        }
+      ],
+      "risk_score": 3.05,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Nampur APMC",
+      "market_type": "APMC",
+      "current_price": 1681.2,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1698.68,
+          "trend": "Up",
+          "deviation_from_state": "-10.32%"
+        },
+        {
+          "month": "February",
+          "price": 1752.54,
+          "trend": "Up",
+          "deviation_from_state": "-8.07%"
+        },
+        {
+          "month": "March",
+          "price": 1752.67,
+          "trend": "Up",
+          "deviation_from_state": "-8.73%"
+        }
+      ],
+      "risk_score": 0.6,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Nanded APMC",
+      "market_type": "APMC",
+      "current_price": 1782.5,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1783.49,
+          "trend": "Up",
+          "deviation_from_state": "-5.84%"
+        },
+        {
+          "month": "February",
+          "price": 1788.25,
+          "trend": "Up",
+          "deviation_from_state": "-6.19%"
+        },
+        {
+          "month": "March",
+          "price": 1802.24,
+          "trend": "Up",
+          "deviation_from_state": "-6.15%"
+        }
+      ],
+      "risk_score": 0.4,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Nandgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1899.19,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1943.24,
+          "trend": "Up",
+          "deviation_from_state": "2.60%"
+        },
+        {
+          "month": "February",
+          "price": 1979.17,
+          "trend": "Up",
+          "deviation_from_state": "3.82%"
+        },
+        {
+          "month": "March",
+          "price": 1998.25,
+          "trend": "Up",
+          "deviation_from_state": "4.06%"
+        }
+      ],
+      "risk_score": 0.23,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Nandgaon Khandeshwar APMC",
+      "market_type": "APMC",
+      "current_price": 1625.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1691.71,
+          "trend": "Up",
+          "deviation_from_state": "-10.68%"
+        },
+        {
+          "month": "February",
+          "price": 1727.85,
+          "trend": "Up",
+          "deviation_from_state": "-9.36%"
+        },
+        {
+          "month": "March",
+          "price": 1756.92,
+          "trend": "Up",
+          "deviation_from_state": "-8.51%"
+        }
+      ],
+      "risk_score": 0.63,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Nandura APMC",
+      "market_type": "APMC",
+      "current_price": 1858.75,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1941.95,
+          "trend": "Up",
+          "deviation_from_state": "2.53%"
+        },
+        {
+          "month": "February",
+          "price": 1968.12,
+          "trend": "Up",
+          "deviation_from_state": "3.24%"
+        },
+        {
+          "month": "March",
+          "price": 1996.05,
+          "trend": "Up",
+          "deviation_from_state": "3.94%"
+        }
+      ],
+      "risk_score": 0.22,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Nandurbar APMC",
+      "market_type": "APMC",
+      "current_price": 2044.82,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2060.52,
+          "trend": "Up",
+          "deviation_from_state": "8.79%"
+        },
+        {
+          "month": "February",
+          "price": 2080.87,
+          "trend": "Up",
+          "deviation_from_state": "9.16%"
+        },
+        {
+          "month": "March",
+          "price": 2070.43,
+          "trend": "Down",
+          "deviation_from_state": "7.82%"
+        }
+      ],
+      "risk_score": 0.57,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Navapur APMC",
+      "market_type": "APMC",
+      "current_price": 1789.49,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1813.42,
+          "trend": "Up",
+          "deviation_from_state": "-4.26%"
+        },
+        {
+          "month": "February",
+          "price": 1860.06,
+          "trend": "Up",
+          "deviation_from_state": "-2.43%"
+        },
+        {
+          "month": "March",
+          "price": 1912.69,
+          "trend": "Up",
+          "deviation_from_state": "-0.40%"
+        }
+      ],
+      "risk_score": 0.15,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Newasa APMC",
+      "market_type": "APMC",
+      "current_price": 2236.43,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2207.37,
+          "trend": "Down",
+          "deviation_from_state": "16.54%"
+        },
+        {
+          "month": "February",
+          "price": 2158.3,
+          "trend": "Down",
+          "deviation_from_state": "13.22%"
+        },
+        {
+          "month": "March",
+          "price": 2149.53,
+          "trend": "Down",
+          "deviation_from_state": "11.93%"
+        }
+      ],
+      "risk_score": 0.91,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Nira(Saswad) APMC",
+      "market_type": "APMC",
+      "current_price": 2218.75,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2206.93,
+          "trend": "Down",
+          "deviation_from_state": "16.52%"
+        },
+        {
+          "month": "February",
+          "price": 2157.22,
+          "trend": "Down",
+          "deviation_from_state": "13.16%"
+        },
+        {
+          "month": "March",
+          "price": 2153.35,
+          "trend": "Down",
+          "deviation_from_state": "12.13%"
+        }
+      ],
+      "risk_score": 0.92,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Note:",
+      "market_type": "APMC",
+      "current_price": 1919.03,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1941.88,
+          "trend": "Up",
+          "deviation_from_state": "2.52%"
+        },
+        {
+          "month": "February",
+          "price": 1975.07,
+          "trend": "Up",
+          "deviation_from_state": "3.61%"
+        },
+        {
+          "month": "March",
+          "price": 1995.77,
+          "trend": "Up",
+          "deviation_from_state": "3.93%"
+        }
+      ],
+      "risk_score": 0.22,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Pachora APMC",
+      "market_type": "APMC",
+      "current_price": 1837.78,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1864.08,
+          "trend": "Up",
+          "deviation_from_state": "-1.58%"
+        },
+        {
+          "month": "February",
+          "price": 1909.58,
+          "trend": "Up",
+          "deviation_from_state": "0.17%"
+        },
+        {
+          "month": "March",
+          "price": 1936.82,
+          "trend": "Up",
+          "deviation_from_state": "0.86%"
+        }
+      ],
+      "risk_score": 0.06,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Paithan APMC",
+      "market_type": "APMC",
+      "current_price": 1740.26,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1821.86,
+          "trend": "Up",
+          "deviation_from_state": "-3.81%"
+        },
+        {
+          "month": "February",
+          "price": 1851.19,
+          "trend": "Up",
+          "deviation_from_state": "-2.89%"
+        },
+        {
+          "month": "March",
+          "price": 1878.6,
+          "trend": "Up",
+          "deviation_from_state": "-2.17%"
+        }
+      ],
+      "risk_score": 0.19,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Palghar APMC",
+      "market_type": "APMC",
+      "current_price": 2629.25,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2616.47,
+          "trend": "Down",
+          "deviation_from_state": "38.14%"
+        },
+        {
+          "month": "February",
+          "price": 2642.61,
+          "trend": "Up",
+          "deviation_from_state": "38.63%"
+        },
+        {
+          "month": "March",
+          "price": 2655.1,
+          "trend": "Up",
+          "deviation_from_state": "38.26%"
+        }
+      ],
+      "risk_score": 2.53,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Palus APMC",
+      "market_type": "APMC",
+      "current_price": 2236.43,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2208.73,
+          "trend": "Down",
+          "deviation_from_state": "16.61%"
+        },
+        {
+          "month": "February",
+          "price": 2211.92,
+          "trend": "Up",
+          "deviation_from_state": "16.03%"
+        },
+        {
+          "month": "March",
+          "price": 2209.48,
+          "trend": "Down",
+          "deviation_from_state": "15.06%"
+        }
+      ],
+      "risk_score": 1.05,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Pandharpur APMC",
+      "market_type": "APMC",
+      "current_price": 1675.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1715.37,
+          "trend": "Up",
+          "deviation_from_state": "-9.43%"
+        },
+        {
+          "month": "February",
+          "price": 1760.85,
+          "trend": "Up",
+          "deviation_from_state": "-7.63%"
+        },
+        {
+          "month": "March",
+          "price": 1779.41,
+          "trend": "Up",
+          "deviation_from_state": "-7.34%"
+        }
+      ],
+      "risk_score": 0.53,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Parali Vaijyanath APMC",
+      "market_type": "APMC",
+      "current_price": 1724.53,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1754.29,
+          "trend": "Up",
+          "deviation_from_state": "-7.38%"
+        },
+        {
+          "month": "February",
+          "price": 1785.01,
+          "trend": "Up",
+          "deviation_from_state": "-6.36%"
+        },
+        {
+          "month": "March",
+          "price": 1811.83,
+          "trend": "Up",
+          "deviation_from_state": "-5.65%"
+        }
+      ],
+      "risk_score": 0.42,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Paranda APMC",
+      "market_type": "APMC",
+      "current_price": 1500.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1615.88,
+          "trend": "Up",
+          "deviation_from_state": "-14.69%"
+        },
+        {
+          "month": "February",
+          "price": 1679.31,
+          "trend": "Up",
+          "deviation_from_state": "-11.91%"
+        },
+        {
+          "month": "March",
+          "price": 1734.37,
+          "trend": "Up",
+          "deviation_from_state": "-9.68%"
+        }
+      ],
+      "risk_score": 0.79,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Parbhani APMC",
+      "market_type": "APMC",
+      "current_price": 1619.47,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1682.72,
+          "trend": "Up",
+          "deviation_from_state": "-11.16%"
+        },
+        {
+          "month": "February",
+          "price": 1713.8,
+          "trend": "Up",
+          "deviation_from_state": "-10.10%"
+        },
+        {
+          "month": "March",
+          "price": 1751.68,
+          "trend": "Up",
+          "deviation_from_state": "-8.78%"
+        }
+      ],
+      "risk_score": 0.66,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Partur APMC",
+      "market_type": "APMC",
+      "current_price": 1877.42,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1907.74,
+          "trend": "Up",
+          "deviation_from_state": "0.72%"
+        },
+        {
+          "month": "February",
+          "price": 1935.9,
+          "trend": "Up",
+          "deviation_from_state": "1.55%"
+        },
+        {
+          "month": "March",
+          "price": 1937.14,
+          "trend": "Up",
+          "deviation_from_state": "0.87%"
+        }
+      ],
+      "risk_score": 0.07,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Pathardi APMC",
+      "market_type": "APMC",
+      "current_price": 1874.07,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1895.73,
+          "trend": "Up",
+          "deviation_from_state": "0.09%"
+        },
+        {
+          "month": "February",
+          "price": 1921.31,
+          "trend": "Up",
+          "deviation_from_state": "0.79%"
+        },
+        {
+          "month": "March",
+          "price": 1935.9,
+          "trend": "Up",
+          "deviation_from_state": "0.81%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Pathari APMC",
+      "market_type": "APMC",
+      "current_price": 1575.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1675.88,
+          "trend": "Up",
+          "deviation_from_state": "-11.52%"
+        },
+        {
+          "month": "February",
+          "price": 1686.78,
+          "trend": "Up",
+          "deviation_from_state": "-11.52%"
+        },
+        {
+          "month": "March",
+          "price": 1715.83,
+          "trend": "Up",
+          "deviation_from_state": "-10.65%"
+        }
+      ],
+      "risk_score": 0.74,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Patur APMC",
+      "market_type": "APMC",
+      "current_price": 1732.2,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1761.68,
+          "trend": "Up",
+          "deviation_from_state": "-6.99%"
+        },
+        {
+          "month": "February",
+          "price": 1774.73,
+          "trend": "Up",
+          "deviation_from_state": "-6.90%"
+        },
+        {
+          "month": "March",
+          "price": 1778.6,
+          "trend": "Up",
+          "deviation_from_state": "-7.38%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Phaltan APMC",
+      "market_type": "APMC",
+      "current_price": 2087.33,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2074.16,
+          "trend": "Down",
+          "deviation_from_state": "9.51%"
+        },
+        {
+          "month": "February",
+          "price": 2093.34,
+          "trend": "Up",
+          "deviation_from_state": "9.81%"
+        },
+        {
+          "month": "March",
+          "price": 2125.08,
+          "trend": "Up",
+          "deviation_from_state": "10.66%"
+        }
+      ],
+      "risk_score": 0.66,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Pulgaon APMC",
+      "market_type": "APMC",
+      "current_price": 1508.87,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1531.88,
+          "trend": "Up",
+          "deviation_from_state": "-19.12%"
+        },
+        {
+          "month": "February",
+          "price": 1618.05,
+          "trend": "Up",
+          "deviation_from_state": "-15.12%"
+        },
+        {
+          "month": "March",
+          "price": 1637.67,
+          "trend": "Up",
+          "deviation_from_state": "-14.72%"
+        }
+      ],
+      "risk_score": 1.07,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Pune APMC",
+      "market_type": "APMC",
+      "current_price": 4218.68,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 3362.55,
+          "trend": "Down",
+          "deviation_from_state": "77.53%"
+        },
+        {
+          "month": "February",
+          "price": 3902.05,
+          "trend": "Up",
+          "deviation_from_state": "104.69%"
+        },
+        {
+          "month": "March",
+          "price": 3402.81,
+          "trend": "Down",
+          "deviation_from_state": "77.20%"
+        }
+      ],
+      "risk_score": 5.7,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Rahata APMC",
+      "market_type": "APMC",
+      "current_price": 1874.52,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1907.74,
+          "trend": "Up",
+          "deviation_from_state": "0.72%"
+        },
+        {
+          "month": "February",
+          "price": 1935.9,
+          "trend": "Up",
+          "deviation_from_state": "1.55%"
+        },
+        {
+          "month": "March",
+          "price": 1937.14,
+          "trend": "Up",
+          "deviation_from_state": "0.87%"
+        }
+      ],
+      "risk_score": 0.07,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Rahuri APMC",
+      "market_type": "APMC",
+      "current_price": 1937.5,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1954.11,
+          "trend": "Up",
+          "deviation_from_state": "3.17%"
+        },
+        {
+          "month": "February",
+          "price": 1951.67,
+          "trend": "Down",
+          "deviation_from_state": "2.38%"
+        },
+        {
+          "month": "March",
+          "price": 1963.75,
+          "trend": "Up",
+          "deviation_from_state": "2.26%"
+        }
+      ],
+      "risk_score": 0.17,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Rahuri(Vambori) APMC",
+      "market_type": "APMC",
+      "current_price": 1844.93,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1927.04,
+          "trend": "Up",
+          "deviation_from_state": "1.74%"
+        },
+        {
+          "month": "February",
+          "price": 1928.74,
+          "trend": "Up",
+          "deviation_from_state": "1.18%"
+        },
+        {
+          "month": "March",
+          "price": 1941.18,
+          "trend": "Up",
+          "deviation_from_state": "1.08%"
+        }
+      ],
+      "risk_score": 0.09,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ramtek APMC",
+      "market_type": "APMC",
+      "current_price": 1744.04,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1778.82,
+          "trend": "Up",
+          "deviation_from_state": "-6.08%"
+        },
+        {
+          "month": "February",
+          "price": 1790.15,
+          "trend": "Up",
+          "deviation_from_state": "-6.09%"
+        },
+        {
+          "month": "March",
+          "price": 1808.73,
+          "trend": "Up",
+          "deviation_from_state": "-5.81%"
+        }
+      ],
+      "risk_score": 0.4,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Raver APMC",
+      "market_type": "APMC",
+      "current_price": 1970.53,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2001.44,
+          "trend": "Up",
+          "deviation_from_state": "5.67%"
+        },
+        {
+          "month": "February",
+          "price": 2015.15,
+          "trend": "Up",
+          "deviation_from_state": "5.71%"
+        },
+        {
+          "month": "March",
+          "price": 2011.55,
+          "trend": "Down",
+          "deviation_from_state": "4.75%"
+        }
+      ],
+      "risk_score": 0.35,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Sakri APMC",
+      "market_type": "APMC",
+      "current_price": 1814.76,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1867.64,
+          "trend": "Up",
+          "deviation_from_state": "-1.40%"
+        },
+        {
+          "month": "February",
+          "price": 1911.52,
+          "trend": "Up",
+          "deviation_from_state": "0.27%"
+        },
+        {
+          "month": "March",
+          "price": 1938.76,
+          "trend": "Up",
+          "deviation_from_state": "0.96%"
+        }
+      ],
+      "risk_score": 0.06,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Sangamner APMC",
+      "market_type": "APMC",
+      "current_price": 2005.16,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1992.8,
+          "trend": "Down",
+          "deviation_from_state": "5.21%"
+        },
+        {
+          "month": "February",
+          "price": 2021.63,
+          "trend": "Up",
+          "deviation_from_state": "6.05%"
+        },
+        {
+          "month": "March",
+          "price": 2018.37,
+          "trend": "Down",
+          "deviation_from_state": "5.10%"
+        }
+      ],
+      "risk_score": 0.36,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Sangli APMC",
+      "market_type": "APMC",
+      "current_price": 2674.27,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2674.59,
+          "trend": "Up",
+          "deviation_from_state": "41.21%"
+        },
+        {
+          "month": "February",
+          "price": 2670.73,
+          "trend": "Down",
+          "deviation_from_state": "40.10%"
+        },
+        {
+          "month": "March",
+          "price": 2671.81,
+          "trend": "Up",
+          "deviation_from_state": "39.13%"
+        }
+      ],
+      "risk_score": 2.65,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Sangrampur(Varvatbakal) APMC",
+      "market_type": "APMC",
+      "current_price": 1768.9,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1786.85,
+          "trend": "Up",
+          "deviation_from_state": "-5.66%"
+        },
+        {
+          "month": "February",
+          "price": 1808.0,
+          "trend": "Up",
+          "deviation_from_state": "-5.16%"
+        },
+        {
+          "month": "March",
+          "price": 1837.86,
+          "trend": "Up",
+          "deviation_from_state": "-4.30%"
+        }
+      ],
+      "risk_score": 0.33,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Satana APMC",
+      "market_type": "APMC",
+      "current_price": 2043.49,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2063.0,
+          "trend": "Up",
+          "deviation_from_state": "8.92%"
+        },
+        {
+          "month": "February",
+          "price": 2083.18,
+          "trend": "Up",
+          "deviation_from_state": "9.28%"
+        },
+        {
+          "month": "March",
+          "price": 2072.74,
+          "trend": "Down",
+          "deviation_from_state": "7.94%"
+        }
+      ],
+      "risk_score": 0.57,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Savner APMC",
+      "market_type": "APMC",
+      "current_price": 1781.59,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1790.36,
+          "trend": "Up",
+          "deviation_from_state": "-5.48%"
+        },
+        {
+          "month": "February",
+          "price": 1805.07,
+          "trend": "Up",
+          "deviation_from_state": "-5.31%"
+        },
+        {
+          "month": "March",
+          "price": 1834.93,
+          "trend": "Up",
+          "deviation_from_state": "-4.45%"
+        }
+      ],
+      "risk_score": 0.33,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Selu APMC",
+      "market_type": "APMC",
+      "current_price": 1830.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1820.14,
+          "trend": "Down",
+          "deviation_from_state": "-3.90%"
+        },
+        {
+          "month": "February",
+          "price": 1847.53,
+          "trend": "Up",
+          "deviation_from_state": "-3.08%"
+        },
+        {
+          "month": "March",
+          "price": 1853.52,
+          "trend": "Up",
+          "deviation_from_state": "-3.48%"
+        }
+      ],
+      "risk_score": 0.23,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Sengoan APMC",
+      "market_type": "APMC",
+      "current_price": 1741.61,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1770.36,
+          "trend": "Up",
+          "deviation_from_state": "-6.53%"
+        },
+        {
+          "month": "February",
+          "price": 1775.77,
+          "trend": "Up",
+          "deviation_from_state": "-6.85%"
+        },
+        {
+          "month": "March",
+          "price": 1779.82,
+          "trend": "Up",
+          "deviation_from_state": "-7.32%"
+        }
+      ],
+      "risk_score": 0.46,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shahada APMC",
+      "market_type": "APMC",
+      "current_price": 1979.56,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1998.35,
+          "trend": "Up",
+          "deviation_from_state": "5.51%"
+        },
+        {
+          "month": "February",
+          "price": 2017.58,
+          "trend": "Up",
+          "deviation_from_state": "5.84%"
+        },
+        {
+          "month": "March",
+          "price": 2010.11,
+          "trend": "Down",
+          "deviation_from_state": "4.67%"
+        }
+      ],
+      "risk_score": 0.35,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shegaon APMC",
+      "market_type": "APMC",
+      "current_price": 1775.88,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1783.26,
+          "trend": "Up",
+          "deviation_from_state": "-5.85%"
+        },
+        {
+          "month": "February",
+          "price": 1791.84,
+          "trend": "Up",
+          "deviation_from_state": "-6.00%"
+        },
+        {
+          "month": "March",
+          "price": 1806.55,
+          "trend": "Up",
+          "deviation_from_state": "-5.93%"
+        }
+      ],
+      "risk_score": 0.39,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shevgaon APMC",
+      "market_type": "APMC",
+      "current_price": 2023.6,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2027.22,
+          "trend": "Up",
+          "deviation_from_state": "7.03%"
+        },
+        {
+          "month": "February",
+          "price": 2044.58,
+          "trend": "Up",
+          "deviation_from_state": "7.25%"
+        },
+        {
+          "month": "March",
+          "price": 2053.96,
+          "trend": "Up",
+          "deviation_from_state": "6.96%"
+        }
+      ],
+      "risk_score": 0.47,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shevgaon(Bodhegaon) APMC",
+      "market_type": "APMC",
+      "current_price": 1854.76,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1918.3,
+          "trend": "Up",
+          "deviation_from_state": "1.28%"
+        },
+        {
+          "month": "February",
+          "price": 1936.38,
+          "trend": "Up",
+          "deviation_from_state": "1.58%"
+        },
+        {
+          "month": "March",
+          "price": 1941.49,
+          "trend": "Up",
+          "deviation_from_state": "1.10%"
+        }
+      ],
+      "risk_score": 0.09,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Shirpur APMC",
+      "market_type": "APMC",
+      "current_price": 1925.58,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1946.53,
+          "trend": "Up",
+          "deviation_from_state": "2.77%"
+        },
+        {
+          "month": "February",
+          "price": 1987.2,
+          "trend": "Up",
+          "deviation_from_state": "4.24%"
+        },
+        {
+          "month": "March",
+          "price": 2011.29,
+          "trend": "Up",
+          "deviation_from_state": "4.74%"
+        }
+      ],
+      "risk_score": 0.26,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Shirur APMC",
+      "market_type": "APMC",
+      "current_price": 1663.1,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1708.91,
+          "trend": "Up",
+          "deviation_from_state": "-9.78%"
+        },
+        {
+          "month": "February",
+          "price": 1748.76,
+          "trend": "Up",
+          "deviation_from_state": "-8.26%"
+        },
+        {
+          "month": "March",
+          "price": 1763.24,
+          "trend": "Up",
+          "deviation_from_state": "-8.18%"
+        }
+      ],
+      "risk_score": 0.58,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shrigonda APMC",
+      "market_type": "APMC",
+      "current_price": 1989.19,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2014.74,
+          "trend": "Up",
+          "deviation_from_state": "6.37%"
+        },
+        {
+          "month": "February",
+          "price": 2004.81,
+          "trend": "Down",
+          "deviation_from_state": "5.17%"
+        },
+        {
+          "month": "March",
+          "price": 1996.93,
+          "trend": "Down",
+          "deviation_from_state": "3.99%"
+        }
+      ],
+      "risk_score": 0.34,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shrigonda(Gogargaon) APMC",
+      "market_type": "APMC",
+      "current_price": 1986.37,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2021.14,
+          "trend": "Up",
+          "deviation_from_state": "6.71%"
+        },
+        {
+          "month": "February",
+          "price": 2017.8,
+          "trend": "Down",
+          "deviation_from_state": "5.85%"
+        },
+        {
+          "month": "March",
+          "price": 2012.94,
+          "trend": "Down",
+          "deviation_from_state": "4.82%"
+        }
+      ],
+      "risk_score": 0.38,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shrirampur APMC",
+      "market_type": "APMC",
+      "current_price": 1799.31,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1798.55,
+          "trend": "Down",
+          "deviation_from_state": "-5.04%"
+        },
+        {
+          "month": "February",
+          "price": 1803.31,
+          "trend": "Up",
+          "deviation_from_state": "-5.40%"
+        },
+        {
+          "month": "March",
+          "price": 1832.46,
+          "trend": "Up",
+          "deviation_from_state": "-4.58%"
+        }
+      ],
+      "risk_score": 0.33,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Shrirampur(Belapur) APMC",
+      "market_type": "APMC",
+      "current_price": 1609.38,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1612.58,
+          "trend": "Up",
+          "deviation_from_state": "-14.86%"
+        },
+        {
+          "month": "February",
+          "price": 1664.04,
+          "trend": "Up",
+          "deviation_from_state": "-12.71%"
+        },
+        {
+          "month": "March",
+          "price": 1708.28,
+          "trend": "Up",
+          "deviation_from_state": "-11.04%"
+        }
+      ],
+      "risk_score": 0.85,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Sillod APMC",
+      "market_type": "APMC",
+      "current_price": 1967.11,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1995.73,
+          "trend": "Up",
+          "deviation_from_state": "5.37%"
+        },
+        {
+          "month": "February",
+          "price": 2007.69,
+          "trend": "Up",
+          "deviation_from_state": "5.32%"
+        },
+        {
+          "month": "March",
+          "price": 1993.75,
+          "trend": "Down",
+          "deviation_from_state": "3.82%"
+        }
+      ],
+      "risk_score": 0.32,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Sillod(Bharadi) APMC",
+      "market_type": "APMC",
+      "current_price": 1923.46,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1936.94,
+          "trend": "Up",
+          "deviation_from_state": "2.26%"
+        },
+        {
+          "month": "February",
+          "price": 1942.05,
+          "trend": "Up",
+          "deviation_from_state": "1.88%"
+        },
+        {
+          "month": "March",
+          "price": 1976.63,
+          "trend": "Up",
+          "deviation_from_state": "2.93%"
+        }
+      ],
+      "risk_score": 0.16,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Sindi(Selu) APMC",
+      "market_type": "APMC",
+      "current_price": 1835.7,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1876.13,
+          "trend": "Up",
+          "deviation_from_state": "-0.95%"
+        },
+        {
+          "month": "February",
+          "price": 1913.01,
+          "trend": "Up",
+          "deviation_from_state": "0.35%"
+        },
+        {
+          "month": "March",
+          "price": 1941.17,
+          "trend": "Up",
+          "deviation_from_state": "1.08%"
+        }
+      ],
+      "risk_score": 0.05,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Sinner APMC",
+      "market_type": "APMC",
+      "current_price": 1990.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2002.73,
+          "trend": "Up",
+          "deviation_from_state": "5.74%"
+        },
+        {
+          "month": "February",
+          "price": 2012.88,
+          "trend": "Up",
+          "deviation_from_state": "5.59%"
+        },
+        {
+          "month": "March",
+          "price": 2009.43,
+          "trend": "Down",
+          "deviation_from_state": "4.64%"
+        }
+      ],
+      "risk_score": 0.35,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Solapur APMC",
+      "market_type": "APMC",
+      "current_price": 2615.73,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2598.32,
+          "trend": "Down",
+          "deviation_from_state": "37.18%"
+        },
+        {
+          "month": "February",
+          "price": 2626.51,
+          "trend": "Up",
+          "deviation_from_state": "37.78%"
+        },
+        {
+          "month": "March",
+          "price": 2589.71,
+          "trend": "Down",
+          "deviation_from_state": "34.86%"
+        }
+      ],
+      "risk_score": 2.41,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Sonpeth APMC",
+      "market_type": "APMC",
+      "current_price": 1611.25,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1708.95,
+          "trend": "Up",
+          "deviation_from_state": "-9.77%"
+        },
+        {
+          "month": "February",
+          "price": 1699.36,
+          "trend": "Down",
+          "deviation_from_state": "-10.86%"
+        },
+        {
+          "month": "March",
+          "price": 1756.69,
+          "trend": "Up",
+          "deviation_from_state": "-8.52%"
+        }
+      ],
+      "risk_score": 0.64,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Tadkalas APMC",
+      "market_type": "APMC",
+      "current_price": 1612.5,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1672.08,
+          "trend": "Up",
+          "deviation_from_state": "-11.72%"
+        },
+        {
+          "month": "February",
+          "price": 1710.63,
+          "trend": "Up",
+          "deviation_from_state": "-10.26%"
+        },
+        {
+          "month": "March",
+          "price": 1748.15,
+          "trend": "Up",
+          "deviation_from_state": "-8.97%"
+        }
+      ],
+      "risk_score": 0.68,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Taloda APMC",
+      "market_type": "APMC",
+      "current_price": 1812.79,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1872.06,
+          "trend": "Up",
+          "deviation_from_state": "-1.16%"
+        },
+        {
+          "month": "February",
+          "price": 1931.51,
+          "trend": "Up",
+          "deviation_from_state": "1.32%"
+        },
+        {
+          "month": "March",
+          "price": 1972.73,
+          "trend": "Up",
+          "deviation_from_state": "2.73%"
+        }
+      ],
+      "risk_score": 0.12,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Tasgaon APMC",
+      "market_type": "APMC",
+      "current_price": 2082.45,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2083.07,
+          "trend": "Up",
+          "deviation_from_state": "9.98%"
+        },
+        {
+          "month": "February",
+          "price": 2083.96,
+          "trend": "Up",
+          "deviation_from_state": "9.32%"
+        },
+        {
+          "month": "March",
+          "price": 2083.96,
+          "trend": "Down",
+          "deviation_from_state": "8.52%"
+        }
+      ],
+      "risk_score": 0.61,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Telhara APMC",
+      "market_type": "APMC",
+      "current_price": 1824.63,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1863.21,
+          "trend": "Up",
+          "deviation_from_state": "-1.63%"
+        },
+        {
+          "month": "February",
+          "price": 1909.7,
+          "trend": "Up",
+          "deviation_from_state": "0.18%"
+        },
+        {
+          "month": "March",
+          "price": 1936.94,
+          "trend": "Up",
+          "deviation_from_state": "0.86%"
+        }
+      ],
+      "risk_score": 0.06,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Tuljapur APMC",
+      "market_type": "APMC",
+      "current_price": 1821.88,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1801.16,
+          "trend": "Down",
+          "deviation_from_state": "-4.91%"
+        },
+        {
+          "month": "February",
+          "price": 1812.68,
+          "trend": "Up",
+          "deviation_from_state": "-4.91%"
+        },
+        {
+          "month": "March",
+          "price": 1855.48,
+          "trend": "Up",
+          "deviation_from_state": "-3.38%"
+        }
+      ],
+      "risk_score": 0.29,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Tumsar APMC",
+      "market_type": "APMC",
+      "current_price": 1837.31,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1892.68,
+          "trend": "Up",
+          "deviation_from_state": "-0.07%"
+        },
+        {
+          "month": "February",
+          "price": 1923.34,
+          "trend": "Up",
+          "deviation_from_state": "0.89%"
+        },
+        {
+          "month": "March",
+          "price": 1941.81,
+          "trend": "Up",
+          "deviation_from_state": "1.12%"
+        }
+      ],
+      "risk_score": 0.05,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Ulhasnagar APMC",
+      "market_type": "APMC",
+      "current_price": 2811.92,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2739.21,
+          "trend": "Down",
+          "deviation_from_state": "44.62%"
+        },
+        {
+          "month": "February",
+          "price": 2812.26,
+          "trend": "Up",
+          "deviation_from_state": "47.52%"
+        },
+        {
+          "month": "March",
+          "price": 2755.15,
+          "trend": "Down",
+          "deviation_from_state": "43.47%"
+        }
+      ],
+      "risk_score": 2.98,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Umared APMC",
+      "market_type": "APMC",
+      "current_price": 2100.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2125.02,
+          "trend": "Up",
+          "deviation_from_state": "12.19%"
+        },
+        {
+          "month": "February",
+          "price": 2128.89,
+          "trend": "Up",
+          "deviation_from_state": "11.68%"
+        },
+        {
+          "month": "March",
+          "price": 2149.6,
+          "trend": "Up",
+          "deviation_from_state": "11.94%"
+        }
+      ],
+      "risk_score": 0.79,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Umarga APMC",
+      "market_type": "APMC",
+      "current_price": 1900.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1936.7,
+          "trend": "Up",
+          "deviation_from_state": "2.25%"
+        },
+        {
+          "month": "February",
+          "price": 1953.61,
+          "trend": "Up",
+          "deviation_from_state": "2.48%"
+        },
+        {
+          "month": "March",
+          "price": 1978.99,
+          "trend": "Up",
+          "deviation_from_state": "3.05%"
+        }
+      ],
+      "risk_score": 0.17,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Umarked(Danki) APMC",
+      "market_type": "APMC",
+      "current_price": 1929.27,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1940.88,
+          "trend": "Up",
+          "deviation_from_state": "2.47%"
+        },
+        {
+          "month": "February",
+          "price": 1975.3,
+          "trend": "Up",
+          "deviation_from_state": "3.62%"
+        },
+        {
+          "month": "March",
+          "price": 1996.4,
+          "trend": "Up",
+          "deviation_from_state": "3.96%"
+        }
+      ],
+      "risk_score": 0.22,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Umarkhed APMC",
+      "market_type": "APMC",
+      "current_price": 1900.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1930.9,
+          "trend": "Up",
+          "deviation_from_state": "1.94%"
+        },
+        {
+          "month": "February",
+          "price": 1934.53,
+          "trend": "Up",
+          "deviation_from_state": "1.48%"
+        },
+        {
+          "month": "March",
+          "price": 1938.57,
+          "trend": "Up",
+          "deviation_from_state": "0.95%"
+        }
+      ],
+      "risk_score": 0.1,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Vaduj APMC",
+      "market_type": "APMC",
+      "current_price": 1965.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 2000.93,
+          "trend": "Up",
+          "deviation_from_state": "5.64%"
+        },
+        {
+          "month": "February",
+          "price": 2005.5,
+          "trend": "Up",
+          "deviation_from_state": "5.20%"
+        },
+        {
+          "month": "March",
+          "price": 1991.73,
+          "trend": "Down",
+          "deviation_from_state": "3.72%"
+        }
+      ],
+      "risk_score": 0.32,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Vadvani APMC",
+      "market_type": "APMC",
+      "current_price": 1785.33,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1791.59,
+          "trend": "Up",
+          "deviation_from_state": "-5.41%"
+        },
+        {
+          "month": "February",
+          "price": 1782.43,
+          "trend": "Down",
+          "deviation_from_state": "-6.50%"
+        },
+        {
+          "month": "March",
+          "price": 1776.15,
+          "trend": "Down",
+          "deviation_from_state": "-7.51%"
+        }
+      ],
+      "risk_score": 0.43,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Vaijpur APMC",
+      "market_type": "APMC",
+      "current_price": 1970.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1983.91,
+          "trend": "Up",
+          "deviation_from_state": "4.74%"
+        },
+        {
+          "month": "February",
+          "price": 1974.18,
+          "trend": "Down",
+          "deviation_from_state": "3.56%"
+        },
+        {
+          "month": "March",
+          "price": 1997.35,
+          "trend": "Up",
+          "deviation_from_state": "4.01%"
+        }
+      ],
+      "risk_score": 0.27,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Varud(Rajura Bazar) APMC",
+      "market_type": "APMC",
+      "current_price": 1801.0,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1788.38,
+          "trend": "Down",
+          "deviation_from_state": "-5.58%"
+        },
+        {
+          "month": "February",
+          "price": 1790.86,
+          "trend": "Up",
+          "deviation_from_state": "-6.06%"
+        },
+        {
+          "month": "March",
+          "price": 1782.43,
+          "trend": "Down",
+          "deviation_from_state": "-7.18%"
+        }
+      ],
+      "risk_score": 0.42,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Vasai APMC",
+      "market_type": "APMC",
+      "current_price": 3350.81,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 3332.74,
+          "trend": "Down",
+          "deviation_from_state": "75.96%"
+        },
+        {
+          "month": "February",
+          "price": 3328.0,
+          "trend": "Down",
+          "deviation_from_state": "74.58%"
+        },
+        {
+          "month": "March",
+          "price": 3328.0,
+          "trend": "Down",
+          "deviation_from_state": "73.30%"
+        }
+      ],
+      "risk_score": 4.92,
+      "alert": "High Risk"
+    },
+    {
+      "market_name": "Wardha APMC",
+      "market_type": "APMC",
+      "current_price": 1853.1,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1921.73,
+          "trend": "Up",
+          "deviation_from_state": "1.46%"
+        },
+        {
+          "month": "February",
+          "price": 1935.77,
+          "trend": "Up",
+          "deviation_from_state": "1.55%"
+        },
+        {
+          "month": "March",
+          "price": 1940.88,
+          "trend": "Up",
+          "deviation_from_state": "1.07%"
+        }
+      ],
+      "risk_score": 0.09,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Washim APMC",
+      "market_type": "APMC",
+      "current_price": 1773.76,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1773.59,
+          "trend": "Down",
+          "deviation_from_state": "-6.36%"
+        },
+        {
+          "month": "February",
+          "price": 1778.16,
+          "trend": "Up",
+          "deviation_from_state": "-6.72%"
+        },
+        {
+          "month": "March",
+          "price": 1788.62,
+          "trend": "Up",
+          "deviation_from_state": "-6.86%"
+        }
+      ],
+      "risk_score": 0.44,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Washim(Ansing) APMC",
+      "market_type": "APMC",
+      "current_price": 1739.13,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1766.84,
+          "trend": "Up",
+          "deviation_from_state": "-6.72%"
+        },
+        {
+          "month": "February",
+          "price": 1766.34,
+          "trend": "Down",
+          "deviation_from_state": "-7.34%"
+        },
+        {
+          "month": "March",
+          "price": 1775.12,
+          "trend": "Up",
+          "deviation_from_state": "-7.56%"
+        }
+      ],
+      "risk_score": 0.48,
+      "alert": "Risk Alert"
+    },
+    {
+      "market_name": "Yawal APMC",
+      "market_type": "APMC",
+      "current_price": 1825.56,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1834.43,
+          "trend": "Up",
+          "deviation_from_state": "-3.15%"
+        },
+        {
+          "month": "February",
+          "price": 1835.58,
+          "trend": "Up",
+          "deviation_from_state": "-3.71%"
+        },
+        {
+          "month": "March",
+          "price": 1873.08,
+          "trend": "Up",
+          "deviation_from_state": "-2.46%"
+        }
+      ],
+      "risk_score": 0.2,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Yeola APMC",
+      "market_type": "APMC",
+      "current_price": 1823.73,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 1860.92,
+          "trend": "Up",
+          "deviation_from_state": "-1.75%"
+        },
+        {
+          "month": "February",
+          "price": 1901.56,
+          "trend": "Up",
+          "deviation_from_state": "-0.25%"
+        },
+        {
+          "month": "March",
+          "price": 1918.11,
+          "trend": "Up",
+          "deviation_from_state": "-0.12%"
+        }
+      ],
+      "risk_score": 0.04,
+      "alert": "Normal"
+    },
+    {
+      "market_name": "Yeotmal APMC",
+      "market_type": "APMC",
+      "current_price": 1870.52,
+      "forecast_series": [
+        {
+          "month": "January",
+          "price": 4039.35,
+          "trend": "Up",
+          "deviation_from_state": "113.26%"
+        },
+        {
+          "month": "February",
+          "price": 1997.76,
+          "trend": "Down",
+          "deviation_from_state": "4.80%"
+        },
+        {
+          "month": "March",
+          "price": 3532.2,
+          "trend": "Up",
+          "deviation_from_state": "83.94%"
+        }
+      ],
+      "risk_score": 4.43,
+      "alert": "High Risk"
+    }
+  ]
+}
